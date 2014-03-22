@@ -1,0 +1,100 @@
+Bug;Major;Aniket Mokashi;Mon, 3 Feb 2014 07:30:12 +0000;Mon, 3 Feb 2014 08:36:26 +0000;0;1;pig
+Task;Major;Lorand Bendig;Mon, 3 Feb 2014 04:00:36 +0000;Mon, 3 Feb 2014 04:02:42 +0000;0;1;pig
+Bug;Major;Aniket Mokashi;Sun, 2 Feb 2014 05:15:05 +0000;Sun, 2 Feb 2014 05:43:42 +0000;0;2;pig
+Bug;Major;Unassigned;Fri, 31 Jan 2014 20:20:50 +0000;Fri, 31 Jan 2014 20:20:50 +0000;0;1;pig
+Bug;Major;Daniel Dai;Fri, 31 Jan 2014 18:20:12 +0000;Fri, 31 Jan 2014 19:13:08 +0000;0;3;pig
+Bug;Major;Unassigned;Fri, 31 Jan 2014 17:14:52 +0000;Fri, 31 Jan 2014 17:14:52 +0;0;1;pig
+New Feature;Major;Rekha Joshi;Fri, 31 Jan 2014 09:17:46 +0000;Fri, 31 Jan 2014 18:49:27 +0000;0;3;pig
+Bug;Major;Suhas Satish;Fri, 31 Jan 2014 00:14:27 +0000;Fri, 31 Jan 2014 00:18:38 +0000;0;1;pig
+Bug;Major;Unassigned;Thu, 30 Jan 2014 08:56:28 +0000;Fri, 31 Jan 2014 00:21:45 +0000;0;3;pig
+Sub-task;Major;Rohini Palaniswamy;Thu, 30 Jan 2014 07:03:00 +0000;Fri, 31 Jan 2014 00:23:52 +0000;0;1;pig
+Improvement;Major;Aniket Mokashi;Wed, 29 Jan 2014 23:33:57 +0000;Fri, 31 Jan 2014 17:04:03 +0000;0;2;pig
+Bug;Major;Rajesh Balamohan;Wed, 29 Jan 2014 16:06:33 +0000;Thu, 30 Jan 2014 20:25:38 +0000;0;2;pig
+Bug;Blocker;Unassigned;Tue, 28 Jan 2014 05:12:21 +0000;Fri, 31 Jan 2014 20:26:17 +0000;0;6;pig
+Sub-task;Major;Cheolsoo Park;Tue, 28 Jan 2014 00:15:36 +0000;Tue, 28 Jan 2014 17:09:04 +0000;0;1;pig
+Sub-task;Major;Cheolsoo Park;Mon, 27 Jan 2014 22:58:21 +0000;Mon, 27 Jan 2014 22:58:21 +0000;0;1;pig
+Bug;Major;Jarek Jarcec Cecho;Mon, 27 Jan 2014 15:05:44 +0000;Fri, 31 Jan 2014 18:54:29 +0000;0;4;pig
+Bug;Major;Daniel Dai;Mon, 27 Jan 2014 05:49:55 +0000;Mon, 27 Jan 2014 07:32:40 +0000;0;2;pig
+Bug;Major;Suhas Satish;Sat, 25 Jan 2014 00:57:22 +0000;Mon, 27 Jan 2014 04:00:45 +0000;0;2;pig
+Sub-task;Trivial;Hitesh Shah;Fri, 24 Jan 2014 23:50:30 +0000;Mon, 27 Jan 2014 22:48:00 +0000;0;2;pig
+Bug;Major;Aniket Mokashi;Fri, 24 Jan 2014 23:40:03 +0000;Thu, 30 Jan 2014 20:13:19 +0000;0;2;pig
+Bug;Major;Nezih Yigitbasi;Fri, 24 Jan 2014 00:44:22 +0000;Wed, 29 Jan 2014 22:54:15 +0000;0;1;pig
+Bug;Minor;Unassigned;Thu, 23 Jan 2014 20:39:39 +0000;Thu, 23 Jan 2014 20:39:39 +0000;0;1;pig
+Sub-task;Major;Cheolsoo Park;Thu, 23 Jan 2014 16:01:54 +0000;Mon, 27 Jan 2014 22:35:24 +0000;0;2;pig
+Bug;Minor;Unassigned;Thu, 23 Jan 2014 15:53:50 +0000;Thu, 23 Jan 2014 15:53:50 +0000;0;1;pig
+Bug;Major;Jarek Jarcec Cecho;Thu, 23 Jan 2014 15:44:11 +0000;Fri, 24 Jan 2014 22:25:43 +0000;0;3;pig
+Sub-task;Major;Rohini Palaniswamy;Thu, 23 Jan 2014 11:52:36 +0000;Thu, 23 Jan 2014 11:52:37 +0000;0;1;pig
+New Feature;Major;Gianmarco De Francisci Morales;Thu, 23 Jan 2014 06:40:50 +0000;Thu, 23 Jan 2014 06:40:50 +0000;0;3;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:40:31 +0000;Thu, 23 Jan 2014 06:40:31 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:35:13 +0000;Thu, 23 Jan 2014 06:35:13 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:33:21 +0000;Thu, 23 Jan 2014 06:33:21 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:30:29 +0000;Thu, 23 Jan 2014 06:30:29 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:30:16 +0000;Thu, 23 Jan 2014 06:30:16 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:29:46 +0000;Thu, 23 Jan 2014 06:29:46 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:29:44 +0000;Thu, 23 Jan 2014 06:29:44 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:29:41 +0000;Thu, 23 Jan 2014 06:29:41 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:29:12 +0000;Thu, 23 Jan 2014 06:29:12 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:29:09 +0000;Thu, 23 Jan 2014 06:29:09 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:28:30 +0000;Thu, 23 Jan 2014 06:28:30 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:28:18 +0000;Thu, 23 Jan 2014 06:28:18 +0000;0;0;pig
+Bug;Critical;Unassigned;Thu, 23 Jan 2014 06:27:56 +0000;Thu, 23 Jan 2014 06:27:56 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:25:55 +0000;Thu, 23 Jan 2014 06:25:55 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:25:44 +0000;Thu, 23 Jan 2014 06:25:44 +0000;0;0;pig
+Bug;Major;Unassigned;Thu, 23 Jan 2014 06:25:15 +0000;Thu, 23 Jan 2014 06:25:15 +0000;0;0;pig
+Bug;Major;Raja Aluri;Wed, 22 Jan 2014 21:22:38 +0000;Thu, 30 Jan 2014 01:11:06 +0000;0;2;pig
+Bug;Major;Unassigned;Tue, 21 Jan 2014 22:30:49 +0000;Fri, 24 Jan 2014 19:01:28;0;4;pig
+New Feature;Minor;Nezih Yigitbasi;Tue, 21 Jan 2014 19:34:01 +0000;Tue, 21 Jan 2014 21:40:17 +0000;0;2;pig
+Bug;Major;Cheolsoo Park;Tue, 21 Jan 2014 19:05:49 +0000;Mon, 3 Feb 2014 07:40:35 +0000;0;3;pig
+Bug;Major;Unassigned;Tue, 21 Jan 2014 08:21:28 +0000;Tue, 21 Jan 2014 08:21:28 +0000;0;2;pig
+Bug;Major;Rohini Palanisw;Fri, 17 Jan 2014 23:42:34 +0000;Mon, 27 Jan 2014 08:02:36 +0000;0;4;pig
+Bug;Major;Daniel Dai;Fri, 17 Jan 2014 06:56:14 +0000;Fri, 17 Jan 2014 06:56:14 +0000;0;1;pig
+Bug;Major;Unassigned;Fri, 17 Jan 2014 06:41:29 +0000;Mon, 20 Jan 2014 17:58:58 +0000;0;1;pig
+Bug;Major;Josh Elser;Fri, 17 Jan 2014 06:38:37 +0000;Fri, 17 Jan 2014 06:38:37 +0000;0;1;pig
+Bug;Major;Suhas Satish;Fri, 17 Jan 2014 01:58:46 +0000;Fri, 17 Jan 2014 02:00:40 +0000;0;3;pig
+Bug;Major;Suhas Satish;Thu, 16 Jan 2014 23:30:30 +0000;Thu, 30 Jan 2014 21:43:44 +0000;0;3;pig
+Bug;Major;Daniel Dai;Thu, 16 Jan 2014 19:56:07 +0000;Thu, 16 Jan 2014 21:27:44 +0000;0;1;pig
+Bug;Major;Daniel Dai;Thu, 16 Jan 2014 19:09:59 +0000;Thu, 16 Jan 2014 19:23:32 +0000;0;1;pig
+Bug;Major;Unassigned;Wed, 15 Jan 2014 19:46:49 +0000;Wed, 15 Jan 2014 19:54:26 +0000;0;1;pig
+Bug;Major;Hiten Java;Wed, 15 Jan 2014 01:23:46 +0000;Thu, 16 Jan 2014 21:55:15 +0000;0;2;pig
+Bug;Major;Suhas Satish;Wed, 15 Jan 2014 00:35:08 +0000;Fri, 31 Jan 2014 00:18:34 +0000;0;3;pig
+Sub-task;Major;Daniel Dai;Tue, 14 Jan 2014 22:41:56 +0000;Tue, 14 Jan 2014 23:00:39 +0000;0;2;pig
+Sub-task;Major;Daniel Dai;Tue, 14 Jan 2014 22:02:55 +0000;Tue, 14 Jan 2014 22:58:25 +0000;0;2;pig
+Bug;Blocker;Nezih Yigitbasi;Tue, 14 Jan 2014 01:09:00 +0000;Thu, 16 Jan 2014 00:46:01 +0000;0;2;pig
+New Feature;Minor;Unassigned;Mon, 13 Jan 2014 22:26:14 +0000;Mon, 13 Jan 2014 22:26:57 +0000;0;1;pig
+Bug;Major;Lorand Bendig;Fri, 10 Jan 2014 22:18:2;Sat, 11 Jan 2014 00:14:33 +0000;0;2;pig
+Bug;Major;Rohini Palaniswamy;Thu, 9 Jan 2014 18:03:27 +0000;Fri, 24 Jan 2014 22:24:42 +0000;0;1;pig
+Bug;Major;Unassigned;Thu, 9 Jan 2014 13:39:58 +0000;Thu, 9 Jan 2014 13:39:58 +0000;0;1;pig
+Sub-task;Major;Unassigned;Wed, 8 Jan 2014 17:31:52 +0000;Thu, 9 Jan 2014 23:43:27 +0000;0;1;pig
+Sub-task;Major;Rohini Palaniswamy;Wed, 8 ;Mon, 27 Jan 2014 20:50:19 +0000;0;2;pig
+Bug;Major;Cheolsoo Park;Wed, 8 Jan 2014 17:18:31 +0000;Thu, 9 Jan 2014 18:30:50 +0000;0;2;pig
+Bug;Major;Unassigned;Wed, 8 Jan 2014 05:21:35 +0000;Thu, 16 Jan 2014 10:30:29 +0000;0;1;pig
+Bug;Major;Unassigned;Wed, 8 Jan 2014 01:08:01 +0000;Wed, 8 Jan 2014 01:12:16 +0000;0;3;pig
+Improvement;Minor;Travis Woodruff;Tue, 7 Jan 2014 15:27:07 +0000;Wed, 22 Jan 2014 18:48:50 +0000;0;5;pig
+Improvement;Major;Travis Woodruff;Tue, 7 Jan 2014 14:35:54 +0000;Thu, 9 Jan 2014 19:35:39 +0000;0;3;pig
+Bug;Major;Keren Ouaknine;Tue, 7 Jan 2014 03:34:44 +0000;Thu, 30 Jan 2014 23:31:17 +0000;0;3;pig
+Bug;Major;Unassigned;Tue, 7 Jan 2014 02:01:56 +0000;Tue, 7 Jan 2014 02:01:56 +0000;0;1;pig
+Bug;Critical;Travis Woodruff;Tue, 7 Jan 2014 01:52:51 +0000;Tue, 7 Jan 2014 21:54:33 +0000;0;3;pig
+Bug;Major;Travis Woodruff;Mon, 6 Jan 2014 21:19:22 +0000;Tue, 7 Jan 2014 22:31:29 +0000;0;2;pig
+Improvement;Minor;Cheolsoo Park;Mon, 6 Jan 2014 01:27:35 +0000;Wed, 8 Jan 2014 18:05:55 +0000;0;4;pig
+Sub-task;Major;Daniel Dai;Fri, 3 Jan 2014 18:11:36 +0000;Thu, 9 Jan 2014 21:52:18 +0000;0;1;pig
+Bug;Major;Unassigned;Sun, 29 Dec 2013 13:22:16 +0000;Sun, 29 Dec 2013 13:28:14 +0000;0;2;pig
+Improvement;Minor;Cheolsoo Park;Fri, 27 Dec 2013 19:51:56 +0000;Sun, 29 Dec 2013 23:34:08 +0000;0;2;pig
+Sub-task;Major;Cheolsoo Park;Fri, 27 Dec 2013 18:44:51 +0000;Thu, 16 Jan 2014 02:30:46 +0000;0;1;pig
+Bug;Major;Cheolsoo Park;Fri, 27 Dec 2013 16:27:08 +0000;Mon, 30 Dec 2013 23:29:08 +0000;0;3;pig
+Improvement;Major;Lorand Bendig;Thu, 26 Dec 2013 23:13:43 +0000;Mon, 3 Feb 2014 04:02:42 +0000;0;5;pig
+Bug;Major;Koji Noguchi;Mon, 23 Dec 2013 22:46:12 +0000;Thu, 30 Jan 2014 17:03:46 +0000;0;2;pig
+Bug;Major;Cheolsoo Park;Mon, 23 Dec 2013 00:43:08 +0000;Tue, 24 Dec 2013 05:02:34 +0000;0;2;pig
+Bug;Major;Cheolsoo Park;Sat, 21 Dec 2013 23:32:56 +0000;Fri, 27 Dec 2013 22:17:44 +0000;0;3;pig
+New Feature;Major;Unassigned;Sat, 21 Dec 2013 17:43:41 +0000;Thu, 26 Dec 2013 08:53:09 +0000;1;4;pig
+Bug;Minor;Rohini Palaniswamy;Fri, 20 Dec 2013 23:43:54 +0000;Fri, 27 Dec 2013 19:55:15 +0000;0;2;pig
+Sub-task;Major;Cheolsoo Park;Fri, 20 Dec 2013 01:32:28 +0000;Fri, 27 Dec 2013 06:50:20 +0000;0;1;pig
+Task;Major;Sergey Svinarchuk;Thu, 19 Dec 2013 12:26:19 +0000;Thu, 19 Dec 2013 12:34:52 +0000;0;1;pig
+Sub-task;Major;Daniel Dai;Wed, 18 Dec 2013 19:33:40 +0000;Thu, 2 Jan 2014 08:08:12 +0000;0;3;pig
+Bug;Minor;Jarek Jarcec Cecho;Wed, 18 Dec 2013 09:30:52 +0000;Thu, 19 Dec 2013 08:00:39 +0000;0;3;pig
+Bug;Major;Rohini Palaniswamy;Tue, 17 Dec 2013 20:54:17 +0000;Fri, 27 Dec 2013 19:24:13 +0000;0;2;pig
+Sub-task;Major;Unassigned;Tue, 17 Dec 2013 15:33:39 +0000;Tue, 17 Dec 2013 15:33:40 +0000;0;1;pig
+Bug;Major;Unassigned;Tue, 17 Dec 2013 06:16:04 +0000;Fri, 20 Dec 2013 04:42:53 +0000;0;2;pig
+Sub-task;Major;Alex Bain;Tue, 17 Dec 2013 01:29:18 +0000;Fri, 10 Jan 2014 22:36:24 +0000;0;2;pig
+Bug;Minor;Unassigned;Mon, 16 Dec 2013 17:01:59 +0000;Fri, 24 Jan 2014 16:53:39 +0000;0;2;pig
+Bug;Major;Unassigned;Mon, 16 Dec 2013 13:26:44 +0000;Mon, 3 Feb 2014 00:50:01 +0000;0;3;pig
+Sub-task;Major;Rohini Palaniswamy;Sun, 15 Dec 2013 08:51:32 +0000;Sun, 26 Jan 2014 09:33:11 +0000;0;3;pig

@@ -1,0 +1,601 @@
+Aaron T. Myers	20140127	hadoop-hdfs-project	Bug	Major	0	3	0
+Aaron T. Myers	20140131	hadoop-common-project	Bug	Blocker	0	9	0
+Abhilash S R	20140123	hadoop-mapreduce-project	Improvement	Trivial	0	2	0
+Abin Shahab	20140201	hadoop-hdfs-project	Sub-task	Major	0	8	0
+Adela Maznikar	20140127	hbase	New Feature	Major	0	4	0
+Aditya Acharya	20140128	hadoop-yarn-project	Bug	Major	0	5	0
+Aditya Acharya	20140129	hadoop-yarn-project	Bug	Major	0	6	0
+Akira AJISAKA	20131121	hadoop-mapreduce-project	Sub-task	Major	0	2	0
+Akira AJISAKA	20140114	hadoop-mapreduce-project	Sub-task	Major	0	3	0
+Akira AJISAKA	20140120	hadoop-common-project	Improvement	Minor	0	2	0
+Akira AJISAKA	20140120	hadoop-yarn-project	Bug	Trivial	0	2	0
+Akira AJISAKA	20140122	hadoop-mapreduce-project	Sub-task	Major	0	2	0
+Akira AJISAKA	20140125	hadoop-common-project	Improvement	Major	0	6	0
+Akira AJISAKA	20140126	hadoop-yarn-project	Sub-task	Major	0	6	0
+Akira AJISAKA	20140128	hadoop-common-project	Bug	Trivial	0	4	0
+Akira AJISAKA	20140129	hadoop-hdfs-project	Bug	Minor	0	4	0
+Akira AJISAKA	20140130	hadoop-common-project	Bug	Major	0	4	0
+Akira AJISAKA	20140130	hadoop-hdfs-project	Bug	Major	0	2	0
+Akira AJISAKA	20140203	hadoop-hdfs-project	Sub-task	Major	0	1	0
+Alan Gates	20140124	hive	Improvement	Major	0	2	0
+Alan Gates	20140128	hive	Sub-task	Major	0	1	0
+Alejandro Abdelnur	20140128	hadoop-common-project	Bug	Major	0	6	0
+Alejandro Abdelnur	20140128	hadoop-mapreduce-project	Bug	Blocker	0	1	0
+Alejandro Abdelnur	20140128	hadoop-mapreduce-project	Bug	Critical	0	6	0
+Alejandro Abdelnur	20140128	hadoop-yarn-project	Bug	Major	0	6	0
+Alejandro Abdelnur	20140131	hadoop-common-project	Bug	Major	0	7	0
+Alejandro Abdelnur	20140201	hadoop-common-project	Bug	Blocker	0	12	0
+Alex Bain	20140110	pig	Sub-task	Major	0	2	0
+Andrew Purtell		0
+Andrew Purtell	20140122	hbase	Task	Blocker	0	4	0
+Andrew Wang	20140130	hadoop-hdfs-project	Bug	Blocker	0	5	0
+Andrew Wang	20140130	hadoop-hdfs-project	Improvement	Major	0	6	0
+Andrew Wang	20140131	hadoop-common-project	Bug	Major	0	4	0
+Aniket Mokashi	20140130	pig	Bug	Major	0	2	0
+Aniket Mokashi	20140131	pig	Improvement	Major	0	2	0
+Aniket Mokashi	20140202	pig	Bug	Major	0	2	0
+Aniket Mokashi	20140203	pig	Bug	Major	0	1	0
+Anoop Sam John	20140122	hbase	Bug	Minor	0	5	0
+Anoop Sam John	20140122	hbase	Task	Major	0	2	0
+Anoop Sam John	20140122	hbase	Test	Major	0	3	0
+Anoop Sam John	20140125	hbase	Bug	Blocker	0	7	0
+Anoop Sam John	20140130	hbase	Bug	Major	0	5	0
+Anoop Sam John	20140130	hbase	Bug	Major	0	6	0
+Anoop Sam John	20140131	hbase	Bug	Blocker	0	5	0
+Anoop Sam John	20140201	hbase	Bug	Critical	0	3	0
+Anoop Sam John	20140203	hbase	Bug	Major	0	3	0
+Arpit Agarwal	20140124	hadoop-common-project	Bug	Major	0	2	0
+Arpit Agarwal	20140131	hadoop-hdfs-project	Sub-task	Major	0	9	0
+Ashutosh Chauhan	20140127	hive	Task	Major	0	0	0
+Ashutosh Chauhan	20140130	hive	Task	Blocker	0	2	0
+Benoit Sigoure	20140128	hbase	Bug	Major	0	6	0
+Benoy Antony	20140110	hadoop-common-project	Improvement	Major	0	1	0
+Benoy Antony	20140131	hadoop-common-project	Improvement	Major	0	3	0
+Benoy Antony	20140201	hadoop-common-project	Improvement	Major	0	2	0
+Billie Rinaldi	20140201	hadoop-yarn-project	Sub-task	Major	0	4	0
+Billie Rinaldi	20140202	hadoop-yarn-project	Sub-task	Major	0	4	0
+Buddy	20140203	hadoop-hdfs-project	Bug	Major	0	8	0
+Chen He	20140108	hadoop-mapreduce-project	Bug	Major	0	3	0
+Chen He	20140108	hadoop-mapreduce-project	Bug	Trivial	0	4	0
+Chen He	20140121	hadoop-yarn-project	Improvement	Major	0	2	0
+Chen He	20140125	hadoop-mapreduce-project	Bug	Minor	0	4	0
+Chen He	20140128	hadoop-mapreduce-project	Bug	Major	0	2	0
+Chen He	20140201	hadoop-yarn-project	Bug	Minor	0	4	0
+Cheolsoo Park	20131224	pig	Bug	Major	0	2	0
+Cheolsoo Park	20131227	pig	Bug	Major	0	3	0
+Cheolsoo Park	20131227	pig	Sub-task	Major	0	1	0
+Cheolsoo Park	20131229	pig	Improvement	Minor	0	2	0
+Cheolsoo Park	20131230	pig	Bug	Major	0	3	0
+Cheolsoo Park	20140108	pig	Improvement	Minor	0	4	0
+Cheolsoo Park	20140109	pig	Bug	Major	0	2	0
+Cheolsoo Park	20140116	pig	Sub-task	Major	0	1	0
+Cheolsoo Park	20140127	pig	Sub-task	Major	0	1	0
+Cheolsoo Park	20140127	pig	Sub-task	Major	0	2	0
+Cheolsoo Park	20140128	pig	Sub-task	Major	0	1	0
+Cheolsoo Park	20140203	pig	Bug	Major	0	3	0
+Chris Nauroth	20140115	hadoop-common-project	Bug	Major	0	6	0
+Chris Nauroth	20140117	hadoop-common-project	Sub-task	Major	0	3	0
+Chris Nauroth	20140118	hadoop-common-project	Bug	Trivial	0	4	0
+Chris Nauroth	20140121	hadoop-common-project	Bug	Major	0	2	0
+Chris Nauroth	20140123	hadoop-hdfs-project	Bug	Major	0	2	0
+Chris Nauroth	20140126	hadoop-hdfs-project	Bug	Major	0	2	0
+Chris Nauroth	20140131	hadoop-common-project	Bug	Minor	0	2	0
+Chris Nauroth	20140131	hadoop-hdfs-project	Bug	Major	0	2	0
+Chris Nauroth	20140131	hadoop-hdfs-project	Test	Minor	0	4	0
+Chuan Liu	20131213	hadoop-mapreduce-project	Bug	Major	0	4	0
+Chuan Liu	20140109	hadoop-mapreduce-project	Test	Minor	0	3	0
+Chuan Liu	20140128	hadoop-common-project	Bug	Major	0	5	0
+Chun Chen	20140130	hive	Bug	Critical	0	2	0
+Cindy Li	20140127	hadoop-yarn-project	Sub-task	Major	0	2	0
+Colin Patrick McCabe	20140128	hadoop-hdfs-project	Sub-task	Major	0	5	0
+Colin Patrick McCabe	20140130	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Colin Patrick McCabe	20140201	hadoop-hdfs-project	Bug	Major	0	4	0
+Daniel Dai	20140102	pig	Sub-task	Major	0	3	0
+Daniel Dai	20140109	pig	Sub-task	Major	0	1	0
+Daniel Dai	20140114	pig	Sub-task	Major	0	2	0
+Daniel Dai	20140116	pig	Bug	Major	0	1	0
+Daniel Dai	20140117	pig	Bug	Major	0	1	0
+Daniel Dai	20140127	pig	Bug	Major	0	2	0
+Daniel Dai	20140131	pig	Bug	Major	0	3	0
+Daryn Sharp	20140123	hadoop-hdfs-project	Improvement	Major	0	1	0
+Daryn Sharp	20140128	hadoop-common-project	Sub-task	Major	0	3	0
+Daryn Sharp	20140131	hadoop-common-project	Bug	Blocker	0	5	0
+Devaraj Das	20140116	hbase	Sub-task	Major	0	1	0
+Dilli Arumugam	20140123	hadoop-common-project	Bug	Major	0	2	0
+Enis Soztutar	20140116	hbase	Sub-task	Major	0	1	0
+Enis Soztutar	20140117	hbase	Improvement	Major	0	4	0
+Enis Soztutar	20140203	hbase	Sub-task	Major	0	5	0
+Gera Shegalov	20131230	hadoop-mapreduce-project	Improvement	Major	0	8	0
+Gera Shegalov	20140103	hadoop-mapreduce-project	Improvement	Major	0	11	0
+Gera Shegalov	20140117	hadoop-yarn-project	Bug	Major	0	7	0
+Gera Shegalov	20140118	hadoop-mapreduce-project	Bug	Major	0	9	0
+Gera Shegalov	20140128	hadoop-mapreduce-project	Improvement	Major	0	11	0
+Gera Shegalov	20140201	hadoop-mapreduce-project	Bug	Major	0	6	0
+Gera Shegalov	20140201	hadoop-mapreduce-project	Improvement	Major	0	10	0
+Gianmarco De Francisci Morales	20140123	pig	New Feature	Major	0	3	0
+Gopal V	20140201	hive	Bug	Major	0	3	0
+Gopal V	20140201	hive	Bug	Minor	0	1	0
+Gunther Hagleitner	20140125	hive	Bug	Major	0	2	0
+Gunther Hagleitner	20140129	hive	Bug	Major	0	1	0
+Gunther Hagleitner	20140129	hive	Bug	Major	0	2	0
+Gunther Hagleitner	20140131	hive	Bug	Major	0	4	0
+Gunther Hagleitner	20140203	hive	Bug	Major	0	1	0
+Gunther Hagleitner	20140203	hive	Bug	Major	0	4	0
+Gustavo Anatoly	20140130	hbase	Improvement	Minor	0	3	0
+Haohui Mai	20140116	hadoop-hdfs-project	Improvement	Major	0	4	0
+Haohui Mai	20140118	hadoop-hdfs-project	Sub-task	Major	0	2	0
+Haohui Mai	20140121	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Haohui Mai	20140123	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Haohui Mai	20140127	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Haohui Mai	20140127	hadoop-hdfs-project	Sub-task	Major	0	4	0
+Haohui Mai	20140128	hadoop-common-project	Improvement	Minor	0	5	0
+Haohui Mai	20140128	hadoop-hdfs-project	Improvement	Minor	0	4	0
+Haohui Mai	20140129	hadoop-common-project	Bug	Blocker	0	13	0
+Haohui Mai	20140129	hadoop-common-project	Bug	Major	0	4	0
+Haohui Mai	20140129	hadoop-hdfs-project	Sub-task	Major	0	4	0
+Haohui Mai	20140130	hadoop-yarn-project	Bug	Blocker	0	7	0
+Harsh J	20140128	hbase	Improvement	Trivial	0	4	0
+Hiten Java	20140116	pig	Bug	Major	0	2	0
+Hitesh Shah	20140127	pig	Sub-task	Trivial	0	2	0
+Ishan Chhabra	20140122	hbase	Improvement	Minor	0	4	0
+JamesLi	20140102	hadoop-mapreduce-project	Improvement	Major	0	2	0
+Jarek Jarcec Cecho	20131219	pig	Bug	Minor	0	3	0
+Jarek Jarcec Cecho	20140124	pig	Bug	Major	0	3	0
+Jarek Jarcec Cecho	20140131	pig	Bug	Major	0	4	0
+Jason Dere	20140129	hive	Bug	Major	0	2	0
+Jason Dere	20140129	hive	Sub-task	Major	0	3	0
+Jason Dere	20140130	hive	Bug	Major	0	4	0
+Jason Dere	20140201	hive	Bug	Major	0	1	0
+Jason Lowe	20140110	hadoop-mapreduce-project	Bug	Major	0	9	0
+Jason Lowe	20140118	hadoop-mapreduce-project	Bug	Major	0	4	0
+Jason Lowe	20140128	hadoop-mapreduce-project	Bug	Critical	0	12	0
+Jason Lowe	20140128	hadoop-mapreduce-project	Improvement	Trivial	0	4	0
+Jeffrey Zhong	20140120	hbase	Bug	Critical	0	9	0
+Jeffrey Zhong	20140202	hbase	Bug	Critical	0	5	0
+Jerry He		0
+Jerry He	20140124	hbase	Improvement	Major	0	4	0
+Jerry He	20140203	hbase	Bug	Major	0	7	0
+Jesse Yates	20140125	hbase	Bug	Critical	0	10	0
+Jian He	20140128	hadoop-mapreduce-project	Test	Major	0	8	0
+Jimmy Xiang	20140122	hbase	Bug	Blocker	0	7	0
+Jimmy Xiang	20140123	hadoop-common-project	Bug	Major	0	8	0
+Jimmy Xiang	20140128	hadoop-common-project	Bug	Major	0	8	0
+Jimmy Xiang	20140129	hbase	Bug	Minor	0	7	0
+Jimmy Xiang	20140130	hbase	Task	Minor	0	4	0
+Jimmy Xiang	20140131	hbase	Bug	Minor	0	4	0
+Jing Zhao	20140115	hadoop-hdfs-project	Sub-task	Major	0	1	0
+Jing Zhao	20140123	hadoop-hdfs-project	Sub-task	Minor	0	2	0
+Jing Zhao	20140128	hadoop-hdfs-project	Bug	Major	0	5	0
+Jing Zhao	20140128	hadoop-hdfs-project	Bug	Minor	0	5	0
+Jing Zhao	20140129	hadoop-hdfs-project	Improvement	Minor	0	7	0
+Jing Zhao	20140129	hadoop-hdfs-project	Sub-task	Major	0	1	0
+Jing Zhao	20140130	hadoop-hdfs-project	Bug	Major	0	6	0
+Jing Zhao	20140131	hadoop-common-project	Improvement	Major	0	8	0
+Jing Zhao	20140201	hadoop-hdfs-project	Improvement	Minor	0	2	0
+Jitendra Nath Pandey	20140201	hive	Sub-task	Major	0	1	0
+Jitendra Nath Pandey	20140203	hive	Sub-task	Major	0	1	0
+Jonathan Hsieh		0
+Jonathan Hsieh	20140125	hbase	Bug	Major	0	4	0
+Jonathan Hsieh	20140125	hbase	Bug	Major	0	8	0
+Jonathan Hsieh	20140128	hbase	Bug	Major	0	3	0
+Jonathan Hsieh	20140130	hbase	Bug	Major	0	3	0
+Josh Elser	20140117	pig	Bug	Major	0	1	0
+Josh Elser	20140131	hadoop-hdfs-project	Bug	Minor	0	3	0
+Karthik Kambatla		0
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bug	Critical	0	4	0
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bug	Major	0	4	0
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bug	Major	0	5	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Bug	Minor	0	4	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Bug	Trivial	0	4	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Improvement	Trivial	0	4	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-task	Blocker	0	4	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-task	Critical	0	4	0
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-task	Major	0	2	0
+Karthik Kambatla	20140129	hadoop-yarn-project	Bug	Critical	0	3	0
+Karthik Kambatla	20140129	hadoop-yarn-project	Bug	Trivial	0	2	0
+Karthik Kambatla	20140130	hadoop-yarn-project	Sub-task	Blocker	0	7	0
+Karthik Kambatla	20140131	hadoop-common-project	Bug	Major	0	1	0
+Keren Ouaknine	20140130	pig	Bug	Major	0	3	0
+Koji Noguchi	20140130	pig	Bug	Major	0	2	0
+Kousuke Saruta	20140128	hadoop-hdfs-project	Bug	Trivial	0	5	0
+Larry McCay	20140111	hadoop-common-project	Bug	Major	0	2	0
+Larry McCay	20140116	hadoop-common-project	Bug	Major	0	2	0
+Larry McCay	20140120	hadoop-common-project	Bug	Major	0	2	0
+Lars Hofhansl	20140126	hbase	Sub-task	Major	0	3	0
+Laurent Goujon	20140131	hadoop-hdfs-project	Bug	Major	0	5	0
+Liang Xie	20140131	hadoop-hdfs-project	Improvement	Major	0	20	0
+Liu Shaohui	20140121	hbase	Bug	Critical	0	12	0
+Liu Shaohui	20140121	hbase	Test	Major	0	5	0
+Liyin Liang		0
+Liyin Liang	20131219	hadoop-mapreduce-project	Bug	Major	0	3	0
+Lohit Vijayarenu	20140128	hadoop-mapreduce-project	Bug	Critical	0	8	0
+Lorand Bendig	20140111	pig	Bug	Major	0	2	0
+Lorand Bendig	20140203	pig	Improvement	Major	0	5	0
+Lorand Bendig	20140203	pig	Task	Major	0	1	0
+Lukas Nalezenec	20140131	hbase	Bug	Major	0	5	0
+Manukranth Kolloju	20140129	hbase	New Feature	Minor	0	2	0
+Mark Wagner	20131214	hadoop-mapreduce-project	Bug	Major	0	2	0
+Matteo Bertozzi	20140129	hbase	Bug	Minor	0	5	0
+Mayank Bansal	20140203	hadoop-yarn-project	Bug	Blocker	0	4	0
+Michael Weng	20140117	hadoop-mapreduce-project	Improvement	Major	0	9	0
+Mike Liddell	20140123	hadoop-mapreduce-project	Improvement	Major	0	3	0
+Mit Desai	20140127	hadoop-hdfs-project	Bug	Major	0	2	0
+Mit Desai	20140128	hadoop-hdfs-project	Bug	Major	0	2	0
+Mit Desai	20140128	hadoop-mapreduce-project	Bug	Major	0	4	0
+Mit Desai	20140129	hadoop-common-project	Bug	Major	0	5	0
+Mit Desai	20140129	hadoop-yarn-project	Bug	Major	0	3	0
+Mit Desai	20140131	hadoop-mapreduce-project	Bug	Major	0	3	0
+Mithun Radhakrishnan	20131126	hadoop-mapreduce-project	Bug	Major	0	3	0
+Mohammad Kamrul Islam	20140112	hadoop-yarn-project	Bug	Major	0	5	0
+Mohammad Kamrul Islam	20140122	hadoop-yarn-project	Bug	Major	0	4	0
+Mohammad Kamrul Islam	20140128	hadoop-mapreduce-project	Bug	Blocker	0	6	0
+Mohammad Kamrul Islam	20140128	hadoop-mapreduce-project	Bug	Major	0	5	0
+Nathan Roberts	20140128	hadoop-hdfs-project	Bug	Major	0	4	0
+Nathan Roberts	20140128	hadoop-hdfs-project	Improvement	Major	0	7	0
+Navis	20140127	hive	Bug	Trivial	0	1	0
+Navis	20140127	hive	Bug	Trivial	0	2	0
+Navis	20140127	hive	Task	Major	0	5	0
+Navis	20140127	hive	Task	Minor	0	1	0
+Navis	20140128	hive	Bug	Major	0	2	0
+Navis	20140128	hive	Bug	Major	0	3	0
+Navis	20140203	hive	Bug	Minor	0	1	0
+Navis	20140203	hive	New Feature	Minor	0	1	0
+Nezih Yigitbasi	20140116	pig	Bug	Blocker	0	2	0
+Nezih Yigitbasi	20140121	pig	New Feature	Minor	0	2	0
+Nezih Yigitbasi	20140129	pig	Bug	Major	0	1	0
+Nick Dimiduk	20140125	hbase	Improvement	Minor	0	5	0
+Nick Dimiduk	20140126	hbase	Bug	Major	0	5	0
+Nick Dimiduk	20140126	hbase	Bug	Minor	0	5	0
+Nick Dimiduk	20140203	hbase	Bug	Minor	0	5	0
+Nicolas Liochon	20140120	hbase	Sub-task	Major	0	4	0
+Nicolas Liochon	20140123	hbase	Bug	Major	0	5	0
+Nicolas Liochon	20140130	hbase	Bug	Major	0	7	0
+Nicolas Liochon	20140203	hbase	Bug	Critical	0	5	0
+Nikola Vujic	20140131	hadoop-hdfs-project	Bug	Major	0	5	0
+Prasad Mujumdar	20140130	hive	Improvement	Major	0	1	0
+Prasanth	20140124	hive	Bug	Major	0	1	0
+Prasanth J	20140124	hive	Bug	Major	0	1	0
+Prasanth J	20140129	hive	Bug	Major	0	2	0
+Prasanth J	20140129	hive	Sub-task	Minor	0	3	0
+Prasanth J	20140131	hive	Bug	Major	0	2	0
+Prasanth J	20140131	hive	Bug	Major	0	3	0
+Raja Aluri	20140130	pig	Bug	Major	0	2	0
+Rajesh Balamohan	20140130	pig	Bug	Major	0	2	0
+Rakesh R	20140126	hadoop-hdfs-project	Bug	Blocker	0	4	0
+Rekha Joshi	20140131	pig	New Feature	Major	0	3	0
+Remus Rusanu	20140131	hive	Sub-task	Major	0	1	0
+Ren	20140201	hadoop-common-project	Bug	Trivial	0	4	0
+Robert Kanter	20131213	hadoop-mapreduce-project	Improvement	Major	0	8	0
+Robert Kanter	20131231	hadoop-mapreduce-project	Bug	Trivial	0	3	0
+Robert Kanter	20140103	hadoop-mapreduce-project	Bug	Major	0	2	0
+Rohini Palanisw	20140127	pig	Bug	Major	0	4	0
+Rohini Palaniswamy	20131227	pig	Bug	Major	0	2	0
+Rohini Palaniswamy	20131227	pig	Bug	Minor	0	2	0
+Rohini Palaniswamy	20140123	pig	Sub-task	Major	0	1	0
+Rohini Palaniswamy	20140124	pig	Bug	Major	0	1	0
+Rohini Palaniswamy	20140126	pig	Sub-task	Major	0	3	0
+Rohini Palaniswamy	20140127	pig	Sub-task	Major	0	2	0
+Rohini Palaniswamy	20140131	pig	Sub-task	Major	0	1	0
+Sandy Ryza	20140128	hadoop-mapreduce-project	Bug	Major	0	4	0
+Sandy Ryza	20140128	hadoop-yarn-project	Bug	Major	0	4	0
+Sandy Ryza	20140128	hadoop-yarn-project	Improvement	Major	0	4	0
+Sandy Ryza	20140128	hadoop-yarn-project	Sub-task	Major	0	3	0
+Sandy Ryza	20140131	hadoop-mapreduce-project	Improvement	Major	0	4	0
+Sandy Ryza	20140131	hadoop-yarn-project	Bug	Major	0	5	0
+Sandy Ryza	20140131	hadoop-yarn-project	Bug	Major	1	3	0
+Sangjin Lee	20131202	hadoop-mapreduce-project	New Feature	Major	0	8	0
+Sergey Shelukhin	20140123	hive	Improvement	Minor	0	1	0
+Sergey Shelukhin	20140128	hive	Bug	Minor	0	2	0
+Sergey Shelukhin	20140129	hbase	Improvement	Minor	0	3	0
+Sergey Shelukhin	20140129	hbase	Sub-task	Major	0	3	0
+Sergey Shelukhin	20140201	hive	Improvement	Major	0	1	0
+Sergey Shelukhin	20140202	hbase	Test	Major	0	5	0
+Sergey Svinarchuk	20131219	pig	Task	Major	0	1	0
+Shinichi Yamashita	20140126	hadoop-yarn-project	Sub-task	Trivial	0	4	0
+Shuaishuai Nie	20140128	hive	Bug	Major	0	2	0
+Siqi Li	20140117	hadoop-yarn-project	Bug	Critical	0	2	0
+Suhas Satish	20140117	pig	Bug	Major	0	3	0
+Suhas Satish	20140127	pig	Bug	Major	0	2	0
+Suhas Satish	20140130	pig	Bug	Major	0	3	0
+Suhas Satish	20140131	pig	Bug	Major	0	1	0
+Suhas Satish	20140131	pig	Bug	Major	0	3	0
+Sushanth Sowmyan	20140131	hive	Bug	Major	0	3	0
+Sushanth Sowmyan	20140131	hive	Task	Major	0	2	0
+Swarnim Kulkarni	20140123	hive	Sub-task	Major	0	1	0
+Swarnim Kulkarni	20140131	hive	Sub-task	Major	0	2	0
+Tao Luo	20140131	hadoop-hdfs-project	Bug	Major	0	4	0
+Ted Malaska	20140107	hadoop-mapreduce-project	Improvement	Major	0	2	0
+Ted Malaska	20140113	hadoop-mapreduce-project	Improvement	Major	0	2	0
+Ted Yu	20131211	hadoop-mapreduce-project	Improvement	Major	0	3	0
+Ted Yu	20140117	hbase	Bug	Minor	0	4	0
+Ted Yu	20140117	hbase	Task	Major	0	4	0
+Ted Yu	20140120	hbase	Improvement	Major	0	2	0
+Ted Yu	20140123	hbase	Test	Major	0	0	0
+Ted Yu	20140125	hbase	Bug	Major	0	9	0
+Ted Yu	20140125	hbase	Test	Major	0	4	0
+Ted Yu	20140125	hbase	Test	Major	0	5	0
+Ted Yu	20140128	hadoop-common-project	Bug	Minor	0	4	0
+Ted Yu	20140128	hbase	Bug	Major	0	5	0
+Ted Yu	20140130	hadoop-mapreduce-project	Bug	Major	0	10	0
+Ted Yu	20140201	hbase	Test	Major	0	4	0
+Thejas M Nair	20140201	hive	Sub-task	Major	0	2	0
+Thejas M Nair	20140203	hive	Sub-task	Major	0	2	0
+Thomas Graves	20140118	hadoop-yarn-project	Bug	Major	0	4	0
+Todd Lipcon	20140129	hadoop-common-project	Bug	Major	0	5	0
+Todd Lipcon	20140131	hadoop-hdfs-project	Bug	Major	0	8	0
+Travis Woodruff	20140107	pig	Bug	Critical	0	3	0
+Travis Woodruff	20140107	pig	Bug	Major	0	2	0
+Travis Woodruff	20140109	pig	Improvement	Major	0	3	0
+Travis Woodruff	20140122	pig	Improvement	Minor	0	5	0
+Tsz Wo (Nicholas), SZE	20140118	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Tsz Wo (Nicholas), SZE	20140130	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Tsz Wo (Nicholas), SZE	20140201	hadoop-hdfs-project	Sub-task	Major	0	6	0
+Uma Maheswara Rao G	20140125	hadoop-hdfs-project	Bug	Major	0	4	0
+Unassigned		0
+Unassigned	20131120	hadoop-mapreduce-project	Task	Major	0	2	0
+Unassigned	20131121	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20131122	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20131123	hadoop-mapreduce-project	Improvement	Major	0	2	0
+Unassigned	20131129	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20131201	hadoop-mapreduce-project	Bug	Trivial	0	2	0
+Unassigned	20131203	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20131203	hadoop-mapreduce-project	Bug	Major	0	6	0
+Unassigned	20131204	hadoop-mapreduce-project	Bug	Major	0	2	0
+Unassigned	20131204	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20131205	hadoop-mapreduce-project	Bug	Major	0	2	0
+Unassigned	20131205	hadoop-mapreduce-project	Bug	Trivial	0	5	0
+Unassigned	20131206	hadoop-mapreduce-project	Improvement	Trivial	0	2	0
+Unassigned	20131210	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20131214	hadoop-mapreduce-project	Bug	Major	0	2	0
+Unassigned	20131217	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20131217	pig	Sub-task	Major	0	1	0
+Unassigned	20131219	hadoop-mapreduce-project	Bu	Major	0	3	0
+Unassigned	20131220	pig	Bug	Major	0	2	0
+Unassigned	20131223	hadoop-mapreduce-project	Bug	Blocker	0	2	0
+Unassigned	20131226	hadoop-mapreduce-project	Bug	Critical	0	1	0
+Unassigned	20131226	pig	New Feature	Major	1	4	0
+Unassigned	20131229	pig	Bug	Major	0	2	0
+Unassigned	20131230	hadoop-mapreduce-project	Improvement	Major	0	5	0
+Unassigned	20140102	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20140105	hadoop-mapreduce-project	Bug	Major	0	5	0
+Unassigned	20140107	pig	Bug	Major	0	1	0
+Unassigned	20140108	pig	Bug	Major	0	3	0
+Unassigned	20140109	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20140109	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20140109	pig	Bug	Major	0	1	0
+Unassigned	20140109	pig	Sub-task	Major	0	1	0
+Unassigned	20140110	hadoop-mapreduce-project	Bug	Minor	0	2	0
+Unassigned	20140110	hadoop-yarn-project	Improvement	Major	0	2	0
+Unassigned	20140111	hadoop-yarn-project	Improvement	Major	0	3	0
+Unassigned	20140112	hadoop-common-project	Bug	Critical	0	1	0
+Unassigned	20140112	hadoop-common-project	Bug	Minor	0	1	0
+Unassigned	20140112	hadoop-common-project	Improvement	Major	0	3	0
+Unassigned	20140113	hadoop-common-project	Test	Minor	0	2	0
+Unassigned	20140113	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20140113	hadoop-yarn-project	Improvement	Major	0	9	0
+Unassigned	20140113	pig	New Feature	Minor	0	1	0
+Unassigned	20140114	hadoop-common-project	Bug	Minor	0	1	0
+Unassigned	20140114	hadoop-common-project	Bug	Trivial	0	3	0
+Unassigned	20140114	hadoop-hdfs-project	Bug	Critical	0	5	0
+Unassigned	20140114	hadoop-hdfs-project	Bug	Major	0	1	0
+Unassigned	20140114	hadoop-mapreduce-project	Bug	Major	0	3	0
+Unassigned	20140115	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140115	hadoop-mapreduce-project	Bug	Major	0	4	0
+Unassigned	20140115	hadoop-mapreduce-project	Bug	Minor	0	2	0
+Unassigned	20140115	hadoop-yarn-project	Improvement	Minor	0	1	0
+Unassigned	20140115	pig	Bug	Major	0	1	0
+Unassigned	20140116	hadoop-hdfs-project	Bug	Major	0	1	0
+Unassigned	20140116	hadoop-hdfs-project	Bug	Major	0	3	0
+Unassigned	20140116	hadoop-hdfs-project	Improvement	Minor	0	4	0
+Unassigned	20140116	hadoop-hdfs-project	Sub-task	Minor	0	5	0
+Unassigned	20140116	hbase	Impr	Major	0	1	0
+Unassigned	20140116	hbase	Improvement	Major	0	8	0
+Unassigned	20140116	hbase	Sub-task	Major	0	2	0
+Unassigned	20140116	pig	Bug	Major	0	1	0
+Unassigned	20140117	hadoop-hdfs-project	Improvement	Trivial	0	2	0
+Unassigned	20140118	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140118	hbase	Task	Major	0	3	0
+Unassigned	20140120	hadoop-common-project	Bug	Trivial	0	1	0
+Unassigned	20140120	hbase	Bug	Critical	0	3	0
+Unassigned	20140120	hbase	Bug	Major	0	1	0
+Unassigned	20140120	hbase	Improvement	Minor	0	2	0
+Unassigned	20140120	pig	Bug	Major	0	1	0
+Unassigned	20140121	hadoop-hdfs-project	Bug	Major	0	1	0
+Unassigned	20140121	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140121	hadoop-hdfs-project	Bug	Trivial	0	2	0
+Unassigned	20140121	hadoop-hdfs-project	Improvement	Major	0	2	0
+Unassigned	20140121	hadoop-mapreduce-project	Test	Major	0	3	0
+Unassigned	20140121	hbase	Improvement	Major	0	2	0
+Unassigned	20140121	hbase	Improvement	Minor	1	9	0
+Unassigned	20140121	hbase	New Feature	Minor	0	4	0
+Unassigned	20140121	pig	Bug	Major	0	2	0
+Unassigned	20140122	hadoop-common-project	Bug	Minor	0	3	0
+Unassigned	20140122	hadoop-mapreduce-project	Bug	Major	0	2	0
+Unassigned	20140122	hadoop-yarn-project	Sub-task	Major	0	1	0
+Unassigned	20140122	hadoop-yarn-project	Sub-task	Major	0	3	0
+Unassigned	20140122	hbase	New Feature	Major	0	6	0
+Unassigned	20140122	hive	Improvement	Major	0	1	0
+Unassigned	20140123	hadoop-common-project	Bug	Critical	0	0	0
+Unassigned	20140123	hadoop-common-project	Bug	Major	0	0	0
+Unassigned	20140123	hadoop-common-project	Bug	Major	0	3	0
+Unassigned	20140123	hadoop-common-project	Bug	Minor	0	0	0
+Unassigned	20140123	hadoop-common-project	Task	Major	0	6	0
+Unassigned	20140123	hadoop-hdfs-project	Bug	Major	0	0	0
+Unassigned	20140123	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140123	hive	Bug	Major	0	1	0
+Unassigned	20140123	hive	Bug	Minor	0	1	0
+Unassigned	20140123	hive	Improvement	Major	0	1	0
+Unassigned	20140123	hive	Wish	Major	0	1	0
+Unassigned	20140123	pig	Bug	Critical	0	0	0
+Unassigned	20140123	pig	Bug	Major	0	0	0
+Unassigned	20140123	pig	Bug	Minor	0	1	0
+Unassigned	20140124	hadoop-common-project	Bug	Major	0	18	0
+Unassigned	20140124	hadoop-common-project	Bug	Minor	0	3	0
+Unassigned	20140124	hadoop-common-project	Sub-task	Major	0	1	0
+Unassigned	20140124	hadoop-common-project	Sub-task	Minor	0	4	0
+Unassigned	20140124	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140124	hadoop-hdfs-project	Test	Major	0	1	0
+Unassigned	20140124	hadoop-mapreduce-project	Improvement	Major	0	4	0
+Unassigned	20140124	hbase	Bug	Major	0	3	0
+Unassigned	20140124	hbase	Test	Major	0	2	0
+Unassigned	20140124	hive	Bug	Critical	0	1	0
+Unassigned	20140124	hive	Bug	Major	0	2	0
+Unassigned	20140124	pig	Bug	Major	0	4	0
+Unassigned	20140124	pig	Bug	Minor	0	2	0
+Unassigned	20140125	hadoop-common-project	Sub-task	Major	0	1	0
+Unassigned	20140125	hadoop-common-project	Sub-task	Major	0	2	0
+Unassigned	20140125	hbase	Bug	Minor	0	1	0
+Unassigned	20140125	hbase	Improvement	Major	0	5	0
+Unassigned	20140125	hive	Bug	Major	0	1	0
+Unassigned	20140126	hadoop-common-project	Bug	Major	0	4	0
+Unassigned	20140126	hadoop-hdfs-project	Test	Minor	0	1	0
+Unassigned	20140126	hadoop-yarn-project	Bug	Major	0	5	0
+Unassigned	20140126	hbase	Bug	Major	0	4	0
+Unassigned	20140126	hive	Task	Major	0	3	0
+Unassigned	20140127	hadoop-common-project	Bug	Major	0	3	0
+Unassigned	20140127	hadoop-common-project	Bug	Major	2	6	0
+Unassigned	20140127	hadoop-hdfs-project	Bug	Critical	0	2	0
+Unassigned	20140127	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140127	hadoop-hdfs-project	Sub-task	Major	0	5	0
+Unassigned	20140127	hadoop-mapreduce-project	Bug	Minor	0	2	0
+Unassigned	20140127	hadoop-yarn-project	Bug	Major	0	2	0
+Unassigned	20140127	hadoop-yarn-project	Improvement	Minor	0	2	0
+Unassigned	20140127	hbase	Wish	Trivial	0	1	0
+Unassigned	20140127	hive	Sub-task	Major	0	2	0
+Unassigned	20140128	hadoop-common-project	Bug	Major	0	3	0
+Unassigned	20140128	hadoop-common-project	Bug	Minor	0	1	0
+Unassigned	20140128	hadoop-common-project	Improvement	Major	0	1	0
+Unassigned	20140128	hadoop-common-project	Sub-task	Major	0	2	0
+Unassigned	20140128	hadoop-common-project	Sub-task	Major	0	3	0
+Unassigned	20140128	hadoop-hdfs-project	Improvement	Major	1	4	0
+Unassigned	20140128	hadoop-hdfs-project	Improvement	Trivial	0	4	0
+Unassigned	20140128	hadoop-mapreduce-project	Bug	Critical	0	1	0
+Unassigned	20140128	hadoop-mapreduce-project	Bug	Major	0	1	0
+Unassigned	20140128	hadoop-mapreduce-project	Bug	Major	0	8	0
+Unassigned	20140128	hadoop-yarn-project	Bug	Major	0	3	0
+Unassigned	20140128	hadoop-yarn-project	Bug	Minor	0	2	0
+Unassigned	20140128	hadoop-yarn-project	Improvement	Major	0	1	0
+Unassigned	20140128	hadoop-yarn-project	New Feature	Major	0	3	0
+Unassigned	20140128	hadoop-yarn-project	Sub-task	Major	0	2	0
+Unassigned	20140128	hbase	Bug	Major	0	9	0
+Unassigned	20140128	hive	Bug	Major	0	4	0
+Unassigned	20140128	hive	Bug	Trivial	0	1	0
+Unassigned	20140128	hive	New Feature	Minor	0	1	0
+Unassigned	20140129	hadoop-common-project	Bug	Critical	0	7	0
+Unassigned	20140129	hadoop-common-project	Bug	Minor	0	3	0
+Unassigned	20140129	hadoop-common-project	Bug	Trivial	0	4	0
+Unassigned	20140129	hadoop-common-project	Improvement	Minor	0	3	0
+Unassigned	20140129	hadoop-yarn-project	Bug	Major	0	1	0
+Unassigned	20140129	hadoop-yarn-project	Bug	Major	0	2	0
+Unassigned	20140129	hadoop-yarn-project	Bug	Major	0	5	0
+Unassigned	20140129	hadoop-yarn-project	Sub-task	Major	0	1	0
+Unassigned	20140129	hbase	Bug	Trivial	0	5	0
+Unassigned	20140130	hadoop-common-project	Bug	Major	0	1	0
+Unassigned	20140130	hadoop-common-project	Bug	Major	0	2	0
+Unassigned	20140130	hadoop-common-project	Bug	Minor	0	1	0
+Unassigned	20140130	hadoop-common-project	Improvement	Minor	0	4	0
+Unassigned	20140130	hadoop-hdfs-project	Bug	Blocker	0	5	0
+Unassigned	20140130	hadoop-hdfs-project	Bug	Critical	0	2	0
+Unassigned	20140130	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140130	hadoop-hdfs-project	Bug	Major	0	6	0
+Unassigned	20140130	hadoop-yarn-project	Bug	Critical	0	5	0
+Unassigned	20140130	hadoop-yarn-project	Bug	Major	0	6	0
+Unassigned	20140130	hive	Bug	Major	0	2	0
+Unassigned	20140130	hive	Improvement	Major	0	1	0
+Unassigned	20140131	hadoop-common-project	Bug	Minor	0	4	0
+Unassigned	20140131	hadoop-common-project	Improvement	Major	0	3	0
+Unassigned	20140131	hadoop-common-project	Improvement	Major	0	4	0
+Unassigned	20140131	hadoop-hdfs-project	Bug	Major	0	1	0
+Unassigned	20140131	hadoop-hdfs-project	Bug	Major	0	2	0
+Unassigned	20140131	hadoop-yarn-project	Bug	Major	0	2	0
+Unassigned	20140131	hadoop-yarn-project	Bug	Major	0	5	0
+Unassigned	20140131	hbase	Bug	Minor	0	3	0
+Unassigned	20140131	hbase	New Feature	Major	0	2	0
+Unassigned	20140131	pig	Bug	Blocker	0	6	0
+Unassigned	20140131	pig	Bug	Major	0	1	0
+Unassigned	20140131	pig	Bug	Major	0	3	0
+Unassigned	20140201	hadoop-common-project	Bug	Major	0	1	0
+Unassigned	20140201	hadoop-common-project	Sub-task	Major	0	3	0
+Unassigned	20140201	hadoop-hdfs-project	Bug	Blocker	0	30	0
+Unassigned	20140201	hive	Bug	Minor	0	1	0
+Unassigned	20140202	hadoop-common-project	Sub-task	Major	0	5	0
+Unassigned	20140202	hadoop-yarn-project	Bug	Minor	0	3	0
+Unassigned	20140202	hadoop-yarn-project	Test	Major	0	2	0
+Unassigned	20140202	hive	Bug	Major	0	2	0
+Unassigned	20140203	hadoop-hdfs-project	Bug	Major	0	1	0
+Unassigned	20140203	hadoop-hdfs-project	Bug	Trivial	0	1	0
+Unassigned	20140203	hadoop-hdfs-project	Improvement	Major	0	1	0
+Unassigned	20140203	hadoop-hdfs-project	Sub-task	Major	0	1	0
+Unassigned	20140203	hadoop-hdfs-project	Sub-task	Minor	0	1	0
+Unassigned	20140203	hadoop-hdfs-project	Sub-task	Trivial	0	1	0
+Unassigned	20140203	hadoop-yarn-project	Bug	Major	0	3	0
+Unassigned	20140203	hbase	Bug	Major	0	2	0
+Unassigned	20140203	hbase	Sub-task	Major	0	9	0
+Unassigned	20140203	hive	Bug	Major	0	1	0
+Unassigned	20140203	hive	Bug	Minor	0	3	0
+Unassigned	20140203	hive	Sub-task	Minor	0	1	0
+Unassigned	20140203	hive	Wish	Blocker	0	4	0
+Unassigned	20140203	pig	Bug	Major	0	3	0
+Vaibhav Gumashta	20140123	hive	Bug	Major	0	1	0
+Vaibhav Gumashta	20140124	hive	Sub-task	Major	0	1	0
+Vaibhav Gumashta	20140129	hive	Sub-task	Major	0	2	0
+Vaibhav Gumashta	20140201	hive	Sub-task	Major	0	1	0
+Vasu Mariyala	20140129	hbase	New Feature	Major	0	7	0
+Vikram Dixit K	20140129	hive	Improvement	Major	0	2	0
+Vinay	20140123	hadoop-common-project	Bug	Critical	0	6	0
+Vinay	20140127	hadoop-common-project	Bug	Major	0	4	0
+Vinay	20140130	hadoop-hdfs-project	Sub-task	Major	0	3	0
+Vinay	20140201	hadoop-hdfs-project	Sub-task	Major	0	2	0
+Vinod Kumar Vavilapalli	20140111	hadoop-yarn-project	Bug	Major	0	1	0
+Vinod Kumar Vavilapalli	20140124	hadoop-yarn-project	Sub-task	Major	0	1	0
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Bug	Major	0	4	0
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-task	Major	0	2	0
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-task	Major	0	3	0
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-task	Major	0	8	0
+Wangda Tan	20140118	hadoop-yarn-project	Improvement	Major	0	13	0
+Wangda Tan	20140126	hadoop-yarn-project	Sub-task	Major	0	1	0
+Wangda Tan	20140126	hadoop-yarn-project	Sub-task	Major	0	2	0
+Wangda Tan	20140127	hadoop-yarn-project	Sub-task	Major	0	1	0
+Wangda Tan	20140127	hadoop-yarn-project	Sub-task	Major	0	2	0
+Wei Yan	20140131	hadoop-common-project	Bug	Minor	0	4	0
+Xuan 	20140201	hadoop-yarn-project	Sub-task	Major	0	2	0
+Xuan Gong	20140125	hadoop-yarn-project	Sub-task	Major	0	2	0
+Xuan Gong	20140128	hadoop-yarn-project	Sub-task	Major	0	1	0
+Xuan Gong	20140130	hadoop-yarn-project	Sub-task	Major	0	1	0
+Xuan Gong	20140130	hadoop-yarn-project	Sub-task	Major	0	4	0
+Xuan Gong	20140130	hadoop-yarn-project	Sub-task	Major	0	6	0
+Xuan Gong	20140131	hadoop-yarn-project	Sub-task	Major	0	2	0
+Xuan Gong	20140201	hadoop-yarn-project	Sub-task	Major	0	2	0
+Xuan Gong	20140202	hadoop-yarn-project	Sub-task	Major	0	6	0
+Xuefu Zhang	20140128	hive	Bug	Major	0	3	0
+Xuefu Zhang	20140131	hive	Bug	Major	0	3	0
+Xuefu Zhang	20140201	hive	Bug	Major	0	1	0
+Xuefu Zhang	20140201	hive	Bug	Major	0	4	0
+Xuefu Zhang	20140203	hive	Improvement	Major	0	2	0
+Yi Song	20140128	hadoop-mapreduce-project	Bug	Blocker	0	5	0
+Yongjun Zhang	20131231	hadoop-mapreduce-project	Bug	Major	0	4	0
+Yongjun Zhang	20140107	hadoop-mapreduce-project	Bug	Major	0	3	0
+Yongjun Zhang	20140128	hadoop-hdfs-project	Bug	Blocker	0	7	0
+Yongjun Zhang	20140129	hadoop-common-project	Bug	Major	0	6	0
+Yongjun Zhang	20140201	hadoop-common-project	Bug	Major	0	3	0
+Zhijie Shen	20140128	hadoop-yarn-project	Bug	Minor	0	6	0
+Zhijie Shen	20140130	hadoop-yarn-project	Sub-task	Major	0	3	0
+Zhijie Shen	20140201	hadoop-yarn-project	Sub-task	Major	0	4	0
+Zhijie Shen	20140202	hadoop-yarn-project	Sub-task	Major	0	4	0
+binlijin	20140128	hbase	Bug	Major	0	10	0
+cuijianwei	20140125	hbase	Improvement	Minor	0	5	0
+dimmacro	20140110	hadoop-mapreduce-project	Bug	Critical	0	1	0
+ramkrishna.s.vasudevan	20140124	hbase	Improvement	Major	0	3	0
+ramkrishna.s.vasudevan	20140129	hbase	Bug	Minor	0	5	0
+ramkrishna.s.vasudevan	20140129	hbase	Improvement	Minor	0	5	0
+ramkrishna.s.vasudevan	20140203	hbase	Bug	Blocker	0	5	0
+ramkrishna.s.vasudevan	20140203	hbase	Bug	Blocker	0	6	0
+ramkrishna.s.vasudevan	20140203	hbase	Bug	Major	0	2	0
+shanyu zhao	20140124	hadoop-common-project	Bug	Major	0	6	0
+shenhong	20131228	hadoop-mapreduce-project	Improvement	Major	0	5	0
+stack	20140122	hbase	Sub-task	Major	0	5	0
+takeshi.miao	20140121	hbase	Improvement	Minor	0	8	0
+takeshi.miao	20140124	hbase	Improvement	Minor	0	3	0
+takeshi.miao	20140128	hbase	Improvement	Minor	0	2	0
+takeshi.miao	20140129	hadoop-common-project	Improvement	Minor	0	8	0
+tang shanjiang	20131122	hadoop-mapreduce-project	Improvement	Major	0	6	0

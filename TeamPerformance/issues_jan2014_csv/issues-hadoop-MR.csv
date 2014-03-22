@@ -1,0 +1,100 @@
+Bug;Minor;Unassigned;Mon, 27 Jan 2014 09:13:03 +0000;Mon, 27 Jan 2014 17:32:35 +0000;0;2;hadoop-mapreduce-project
+Bug;Minor;Unassigned;Fri, 24 Jan 2014 10:05:05 +0000;Mon, 27 Jan 2014 13:46:37 +0000;0;2;hadoop-mapreduce-project
+Improvement;Trivial;Abhilash S R;Thu, 23;Thu, 23 Jan 2014 11:43:08 +0000;0;2;hadoop-mapreduce-project
+Improvement;Major;Sandy Ryza;Wed, 22 Jan 2014 01:27:19 +0000;Fri, 31 Jan 2014 13:39:14 +0000;0;4;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 21 Jan 2014 19:27:39 +0000;Wed, 22 Jan 2014 16:10:28 +0000;0;2;hadoop-mapreduce-project
+Bug;Critical;Unassigned;Tue, 21 Jan 2014 17:27:57 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;1;hadoop-mapreduce-project
+Bug;Critical;Karthik Kambatla;Mon, 20 Jan 2014 18:39:38 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;4;hadoop-mapreduce-project
+Improvement;Minor;Jerry He;Sat, 18 Jan 2014 21:53:00 +0000;Wed, 22 Jan 2014 0;0;3;hadoop-mapreduce-project
+Bug;Major;Unassigned;Thu, 16 Jan 2014 17:04:13 +0000;Tue, 28 Jan 2014 23:33:37;0;1;hadoop-mapreduce-project
+Test;Major;Unassigned;Thu, 16 Jan 2014 02:01:26 +0000;Tue, 21 Jan 2014 05:48:01 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Sandy Ryza;Thu, 16 Jan 2014 00:16:05 +0000;Tue, 28 Jan 2014 23:33:45 +0000;0;4;hadoop-mapreduce-project
+Bug;Critical;Alejandro Abdelnur;Wed, 15 Jan 2014 00:58:12 +0000;Tue, 28 Jan 2014 23:33:40 +0000;0;6;hadoop-mapreduce-project
+Bug;Blocker;Mohammad Kamrul Islam;Tue, 14 Jan 2014 22:43:17 +0000;Tue, 28 Jan 2014 23:33:43 +0000;0;6;hadoop-mapreduce-project
+Bug;Blocker;Alejandro Abdelnur;Mon, 13 Jan 2014 19:07:01 +0000;Tue, 28 Jan 2014 23:33:44 +0000;0;1;hadoop-mapreduce-project
+Bug;Major;Unassigned;Mon, 13 Jan 2014 01:40:54 +0000;Mon, 13 Jan 2014 01:53:59 +0000;0;1;hadoop-mapreduce-project
+Bug;Major;Unassigned;Mon, 13 Jan 2014 01:40:32 +0000;Tue, 14 Jan 2014 09:41:19 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Ted Yu;Sat, 11 Jan 2014 14:28:25 +0000;Thu, 30 Jan 2014 22:44:47 +0000;0;10;hadoop-mapreduce-project
+Bug;Major;Karthik Kambatla;Sat, 11 Jan 2014 00:41:13 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;5;hadoop-mapreduce-project
+Bug;Major;Jason Lowe;Fri, 10 Jan 2014 16:42:10 +0000;Sat, 18 Jan 2014 13:27:06 +0000;0;4;hadoop-mapreduce-project
+Bug;Critical;dimmacro;Fri, 10 Jan 2014 10:36:24 +0000;Fri, 10 Jan 2014 10:36:24 +0000;0;1;hadoop-mapreduce-project
+Bug;Minor;Unassigned;Thu, 9 Jan 2014 17:16:11 +0000;Fri, 10 Jan 2014 05:59:17 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 8 Jan 2014 22:24:44 +0000;Thu, 9 Jan 2014 21:06:48 +0000;0;1;hadoop-mapreduce-project
+Bug;Trivial;Chen He;Tue, 7 Jan 2014 19:17:05 +0000;Wed, 8 Jan 2014 15:36:31 +0000;0;4;hadoop-mapreduce-project
+Improvement;Major;Ted Malaska;Wed, 8 Jan 2014 02:07:00 +0000;Mon, 13 Jan 2014 20:51:53 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;zhaoyunjiong;Tue, 7 Jan 2014 13:17:00 +0000;Fri, 1;0;4;hadoop-mapreduce-project
+Bug;Major;Yongjun Zhang;Tue, 7 Jan 2014 05:04:40 +0000;Tue, 7 Jan 2014 22:27:47 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Unassigned;Mon, 6 Jan 2014 05:02:41 +0000;Wed, 15 Jan 2014 09:13:27 +0000;0;4;hadoop-mapreduce-project
+Bug;Minor;Unassigned;Sat, 4 Jan 2014 17:38:18 +0000;Wed, 15 Jan 2014 22:28:48 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Sat, 4 Jan 2014 01:54:27 +0000;Thu, 9 Jan 2014 00:53:24 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Robert Kanter;Fri, 3 Jan 2014 22:32:31 +0000;Fri, 3 Jan 2014 22:37:54 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Fri, 3 Jan 2014 17:58:44 +0000;Sun, 5 Jan 2014 03:12:56 +0000;0;5;hadoop-mapreduce-project
+Improvement;Major;JamesLi;Thu, 2 Jan 2014 09:37:32 +0000;Thu, 2 Jan 2014 21:14:41 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 31 Dec 2013 10:47:46 +0000;Thu, 2 Jan 2014 08:47:37 +0000;0;3;hadoop-mapreduce-project
+Bug;Trivial;Robert Kanter;Tue, 31 Dec 2013 01:53:33 +0000;Tue, 31 Dec 2013 19:33:52 +0000;0;3;hadoop-mapreduce-project
+Improvement;Major;shenhong;Mon, 6 May 2013 14:24:00 +0100;Sat, 28 Dec 2013 02:48:56 +0000;0;5;hadoop-mapreduce-project
+Bug;Major;Karthik Kambatla;Fri, 27 Dec 2013 01:09:39 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;4;hadoop-mapreduce-project
+Bug;Major;Yongjun Zhang;Thu, 26 Dec 2013 22:38:24 +0000;Tue, 31 Dec 2013 23:04:05 +0000;0;4;hadoop-mapreduce-project
+Bug;Critical;Unassigned;Thu, 26 Dec 2013 03:08:54 +0000;Thu, 26 Dec 2013 03:08:54 +0000;0;1;hadoop-mapreduce-project
+Improvement;Major;Gera Shegalov;Tue, 24 Dec 2013 00:34:05 +0000;Fri, 3 Jan 2014 03:53:36 +0000;0;11;hadoop-mapreduce-project
+Bug;Blocker;Unassigned;Mon, 23 Dec 2013 05:07:01 +0000;Mon, 23 Dec 2013 22:38:46 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Mohammad Kamrul Islam;Mon, 23 Dec 2013 03:15:56 +0000;Tue, 28 Jan 2014 23:33:43 +0000;0;5;hadoop-mapreduce-project
+Bug;Major;Gera Shegalov;Thu, 19 Dec 2013 21:04:15 +0000;Sat, 1 Feb 2014 03:20:08 +0000;0;6;hadoop-mapreduce-project
+Improvement;Major;Gera Shegalov;Thu, 19 Dec 2013 12:16:01 +0000;Tue, 28 Jan 2014 23:33:46 +0000;0;11;hadoop-mapreduce-project
+Improvement;Major;Unassigned;Thu, 19 Dec 2013 07:16:01 +0000;Mon, 30 Dec 2013 02:31:45 +0000;0;5;hadoop-mapreduce-project
+Bug;Major;Liyin Liang;Thu, 19 Dec 2013 02:25:03 +0000;Thu, 19 Dec 2013 05:08:18 +0000;0;3;hadoop-mapreduce-project
+Bug;Critical;Lohit Vijayarenu;Wed, 18 Dec 2013 17:22:14 +0000;Tue, 28 Jan 2014 23:33:37 +0000;0;8;hadoop-mapreduce-project
+Bug;Major;Mit Desai;Wed, 18 Dec 2013 16:27:05 +0000;Fri, 31 Jan 2014 21:25:24 +0000;0;3;hadoop-mapreduce-project
+Test;Major;Jian He;Tue, 17 Dec 2013 15:29:08 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;8;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 17 Dec 2013 07:30:51 +0000;Tue, 17 Dec 2013 14:15:13 +0000;0;3;hadoop-mapreduce-project
+Bug;Blocker;Yi Song;Mon, 16 Dec 2013 14:24:16 +0000;Tue, 28 Jan 2014 23:33:40 +0000;0;5;hadoop-mapreduce-project
+Bu;Major;Unassigned;Mon, 16 Dec 2013 09:55:22 +0000;Thu, 19 Dec 2013 03:22:13 +0000;0;3;hadoop-mapreduce-project
+Improvement;Minor;Unassigned;Sat, 14 Dec 2013 18:29:52 +0000;Sat, 14 Dec 201;0;2;hadoop-mapreduce-project
+Bug;Major;Mark Wagner;Sat, 14 Dec 2013 01:22:16 +0000;Sat, 14 Dec 2013 01:25:11 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Fri, 13 Dec 2013 23:36:51 +0000;Sat, 14 Dec 2013 02:28:58 +0000;0;2;hadoop-mapreduce-project
+Improvement;Major;Unassigned;Thu, 12 Dec 2013 16:32:54 +0000;Fri, 24 Jan 2014 18:08:19 +0000;0;4;hadoop-mapreduce-project
+Bug;Major;Liyin Liang;Thu, 12 Dec 2013 03:12:57 +0000;Tue;0;4;hadoop-mapreduce-project
+Improvement;Major;Ted Yu;Tue, 10 Dec 2013 22:51:02 +0000;Wed, 11 Dec 2013 00:07:23 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Chen He;Tue, 10 Dec 2013 20:52:21 +0000;Wed, 8 Jan 2014 23:44:44 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 10 Dec 2013 07:54:56 +0000;Tue, 10 Dec 2013 07:55:56 +0000;0;1;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 10 Dec 2013 07:47:55 +0000;Tue, 10 Dec 2013 07:49:26 +0000;0;1;hadoop-mapreduce-project
+Bug;Major;Chuan Liu;Sat, 7 Dec 2013 01:48:09 +0000;Fri, 13 Dec 2013 14:47:07 +0000;0;4;hadoop-mapreduce-project
+Improvement;Trivial;Unassigned;Fri, 6 Dec 2013 09:59:57 +0000;Fri, 6 Dec 2013 15:40:25 +0000;0;2;hadoop-mapreduce-project
+Improvement;Major;Gera Shegalov;Thu, 5 Dec 2013 23:16:25 +0000;Sat, 1 Feb 2014 03:20:08 +0000;0;10;hadoop-mapreduce-project
+Bug;Major;Chen He;Thu, 5 Dec 2013 17:39:50 +0000;Tue, 28 Jan 2014 23:33:44 +0000;0;2;hadoop-mapreduce-project
+Bug;Minor;Chen He;Thu, 5 Dec 2013 17:38:23 +0000;Sat, 25 Jan 2014 06:54:03 +0000;0;4;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 4 Dec 2013 09:51:02 +0000;Wed, 4 Dec 2013 19:29:52 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 4 Dec 2013 07:29:07 +0000;Wed, 4 Dec 2013 09:02:03 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 4 Dec 2013 05:48:54 +0000;Wed, 4 Dec 2013 14:34:51 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 3 Dec 2013 22:02:05 +0000;Tue, 3 Dec 2013 22:40:54 +0000;0;1;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 3 Dec 2013 10:11:43 +0000;Wed, 4 Dec 2013 09:06:49 +0000;0;3;hadoop-mapreduce-project
+Improvement;Major;Michael Weng;Tue, 3 Dec 2013 00:07:18 +0000;Fri, 17 Jan 2014 22:37:14 +0000;0;9;hadoop-mapreduce-project
+New Feature;Major;Sangjin Lee;Mon, 2 Dec 2013 19:35:38 +0000;Mon, 2 Dec 2013 19:39:25 +0000;0;8;hadoop-mapreduce-project
+Bug;Trivial;Unassigned;Mon, 2 Dec 2013 14:30:20 +0000;Thu, 5 Dec 2013 21:32:08 +0000;0;5;hadoop-mapreduce-project
+Bug;Trivial;Unassigned;Sun, 1 Dec 2013 14:09:32 +0000;Sun, 1 Dec 2013 22:52:42 +00;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Fri, 29 Nov 2013 07:13:14 +0000;Fri, 29 Nov 2013 07:13:40 +0000;0;3;hadoop-mapreduce-project
+Bug;Minor;Andrew Purtell;Wed, 27 Nov 2013 21:17:13 +0000;Tue, ;0;2;hadoop-mapreduce-project
+Bug;Critical;Jason Lowe;Wed, 5 Jun 2013 21:54:22 +0100;Tue, 28 Jan 2014 23:33:41 +0000;0;12;hadoop-mapreduce-project
+Bug;Major;Unassigned;Tue, 26 Nov 2013 13:16:16 +0000;Tue, 17 Dec 2013 10:08:07 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Unassigned;Mon, 25 Nov 2013 19:29:00 +0000;Tue, 3 Dec 2013 00:35:26 +0000;0;6;hadoop-mapreduce-project
+Bug;Major;Mithun Radhakrishnan;Mon, 25 Nov 2013 23:11:05 +0000;Tue, 26 Nov 2013 17:05:47 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Jason Lowe;Mon, 25 Nov 2013 21:06:53 +0000;Fri, 10 Jan 2014 23:26:14 +0000;0;9;hadoop-mapreduce-project
+Improvement;Major;Ted Malaska;Mon, 25 Nov 2013 16:28:49 +0000;Tue, 7 Jan 2014 23:53:59 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Gera Shegalov;Mon, 25 Nov 2013 07:06:34 +0000;Sat, 18 Jan 2014 13:27:06 +0000;0;9;hadoop-mapreduce-project
+Bug;Major;Unassigned;Mon, 25 Nov 2013 05:32:19 +0000;Tue, 28 Jan 2014 05:10:47 +0000;0;8;hadoop-mapreduce-project
+Improvement;Major;Gera Shegalov;Sat, 23 Nov 2013 19:07:17 +0000;Mon, 30 Dec 2013 21:16:51 +0000;0;8;hadoop-mapreduce-project
+Improvement;Major;Unassigned;Sat, 23 Nov 2013 17:39:13 +0000;Sat, 23 Nov 2013 17:39:13 +0000;0;2;hadoop-mapreduce-project
+Improvement;Major;Mike Liddell;Fri, 22 Nov 2013 22:34:10 +0000;Thu, 23 Jan 2014 19:45:51 +0000;0;3;hadoop-mapreduce-project
+Bug;Major;Mit Desai;Fri, 22 Nov 2013 21:12:28 +0000;Tue, 28 Jan 2014 23:33:41 +0000;0;4;hadoop-mapreduce-project
+Bug;Major;Unassigned;Fri, 22 Nov 2013 19:45:38 +0000;Fri, 22 Nov 2013 19:45:38 +0000;0;1;hadoop-mapreduce-project
+Improvement;Major;tang shanjiang;Fri, 22 Nov 2013 09:10:46 +0000;Fri, 22 Nov 2013 09:42:23 +0000;0;6;hadoop-mapreduce-project
+Test;Minor;Chuan Liu;Fri, 22 Nov 2013 02:06:56 +0000;Thu, 9 Jan 2014 01:10:12 +0000;0;3;hadoop-mapreduce-project
+Improvement;Major;Robert Kanter;Thu, 21 Nov 2013 22:35:49 +0000;Fri, 13 Dec 2013 14:49:32 +0000;0;8;hadoop-mapreduce-project
+Improvement;Trivial;Jason Lowe;Thu, 21 Nov 2013 15:04:32 +0000;Tue, 28 Jan 2014 23:33:42 +0000;0;4;hadoop-mapreduce-project
+Sub-task;Major;Akira AJISAKA;Thu, 21 Nov 2013 08:54:30 +0000;Wed, 22 Jan 2014 10:47:32 +0000;0;2;hadoop-mapreduce-project
+Sub-task;Major;Akira AJISAKA;Thu, 21 Nov 2013 08:52:13 +0000;Tue, 14 Jan 2014 06:02:34 +0000;0;3;hadoop-mapreduce-project
+Sub-task;Major;Akira AJISAKA;Thu, 21 Nov 2013 08:49:20 +0000;Thu, 21 Nov 2013 09:54:47 +0000;0;2;hadoop-mapreduce-project
+Sub-task;Major;Akira AJISAKA;Thu, 21 Nov 2013 08:47:58 +0000;Thu, 21 Nov 2013 09:54:44 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 20 Nov 2013 22:59:19 +0000;Thu, 5 Dec 2013 16:59:36 +0000;0;2;hadoop-mapreduce-project
+Bug;Major;Unassigned;Wed, 20 Nov 2013 22:02:33 +0000;Thu, 21 Nov 2013 19:08:57 +0000;0;3;hadoop-mapreduce-project
+Task;Major;Unassigned;Wed, 20 Nov 2013 19:57:59 +0000;Wed, 20 Nov 2013 20:18:38 +0000;0;2;hadoop-mapreduce-project
