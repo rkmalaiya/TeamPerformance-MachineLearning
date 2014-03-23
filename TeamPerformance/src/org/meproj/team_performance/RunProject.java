@@ -19,16 +19,16 @@ public class RunProject {
 		
 		
 		
-//		try {
-//			//config.startMR("svn_jan2014", "svn_jan2014_mr_output", Formats.SVN_LOG);
-//			//config.startMR("email_jan2014", "email_jan2014_mr_output", Formats.MAIL_CSV);
-//			//config.startMR("issues_jan2014_csv", "issues_jan2014_csv_mr_output", Formats.ISSUE_LOG);	
-//			
-//		} catch (ClassNotFoundException | IOException | InterruptedException e) {
-//			
-//			e.printStackTrace();
-//		}
-//		
+		try {
+			config.startMR("svn_jan2014", "svn_jan2014_mr_output", Formats.SVN_LOG);
+			config.startMR("email_jan2014", "email_jan2014_mr_output", Formats.MAIL_CSV);
+			config.startMR("issues_jan2014_csv", "issues_jan2014_csv_mr_output", Formats.ISSUE_LOG);	
+			
+		} catch (ClassNotFoundException | IOException | InterruptedException e) {
+			
+			e.printStackTrace();
+		}
+		
 		// *********************************** Merge all files as per attributes for vector ************ 
 		
 		
