@@ -1,0 +1,602 @@
+Aaron T. Myers	20140127	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Aaron T. Myers	20140131	hadoop-common-project	Bugtype	Blockerpriority	0votes	9watches	0ISSUE_LOG
+Abhilash S R	20140123	hadoop-mapreduce-project	Improvementtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Abin Shahab	20140201	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Adela Maznikar	20140127	hbase	New Featuretype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Aditya Acharya	20140128	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Aditya Acharya	20140129	hadoop-yarn-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Akira AJISAKA	20131121	hadoop-mapreduce-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Akira AJISAKA	20140114	hadoop-mapreduce-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Akira AJISAKA	20140120	hadoop-common-project	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Akira AJISAKA	20140120	hadoop-yarn-project	Bugtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Akira AJISAKA	20140122	hadoop-mapreduce-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Akira AJISAKA	20140125	hadoop-common-project	Improvementtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Akira AJISAKA	20140126	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Akira AJISAKA	20140128	hadoop-common-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Akira AJISAKA	20140129	hadoop-hdfs-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Akira AJISAKA	20140130	hadoop-common-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Akira AJISAKA	20140130	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Akira AJISAKA	20140203	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Alan Gates	20140124	hive	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Alan Gates	20140128	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Alejandro Abdelnur	20140128	hadoop-common-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Alejandro Abdelnur	20140128	hadoop-mapreduce-project	Bugtype	Blockerpriority	0votes	1watches	0ISSUE_LOG
+Alejandro Abdelnur	20140128	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	6watches	0ISSUE_LOG
+Alejandro Abdelnur	20140128	hadoop-yarn-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Alejandro Abdelnur	20140131	hadoop-common-project	Bugtype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Alejandro Abdelnur	20140201	hadoop-common-project	Bugtype	Blockerpriority	0votes	12watches	0ISSUE_LOG
+Alex Bain	20140110	pig	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Andrew Purtell		0ISSUE_LOG
+Andrew Purtell	20140122	hbase	Tasktype	Blockerpriority	0votes	4watches	0ISSUE_LOG
+Andrew Wang	20140130	hadoop-hdfs-project	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+Andrew Wang	20140130	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Andrew Wang	20140131	hadoop-common-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Aniket Mokashi	20140130	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Aniket Mokashi	20140131	pig	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Aniket Mokashi	20140202	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Aniket Mokashi	20140203	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Anoop Sam John	20140122	hbase	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Anoop Sam John	20140122	hbase	Tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Anoop Sam John	20140122	hbase	Testtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Anoop Sam John	20140125	hbase	Bugtype	Blockerpriority	0votes	7watches	0ISSUE_LOG
+Anoop Sam John	20140130	hbase	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Anoop Sam John	20140130	hbase	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Anoop Sam John	20140131	hbase	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+Anoop Sam John	20140201	hbase	Bugtype	Criticalpriority	0votes	3watches	0ISSUE_LOG
+Anoop Sam John	20140203	hbase	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Arpit Agarwal	20140124	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Arpit Agarwal	20140131	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Ashutosh Chauhan	20140127	hive	Tasktype	Majorpriority	0votes	0watches	0ISSUE_LOG
+Ashutosh Chauhan	20140130	hive	Tasktype	Blockerpriority	0votes	2watches	0ISSUE_LOG
+Benoit Sigoure	20140128	hbase	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Benoy Antony	20140110	hadoop-common-project	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Benoy Antony	20140131	hadoop-common-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Benoy Antony	20140201	hadoop-common-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Billie Rinaldi	20140201	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Billie Rinaldi	20140202	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Buddy	20140203	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Chen He	20140108	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Chen He	20140108	hadoop-mapreduce-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Chen He	20140121	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chen He	20140125	hadoop-mapreduce-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Chen He	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chen He	20140201	hadoop-yarn-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Cheolsoo Park	20131224	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Cheolsoo Park	20131227	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Cheolsoo Park	20131227	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Cheolsoo Park	20131229	pig	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Cheolsoo Park	20131230	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Cheolsoo Park	20140108	pig	Improvementtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Cheolsoo Park	20140109	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Cheolsoo Park	20140116	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Cheolsoo Park	20140127	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Cheolsoo Park	20140127	pig	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Cheolsoo Park	20140128	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Cheolsoo Park	20140203	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Chris Nauroth	20140115	hadoop-common-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Chris Nauroth	20140117	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Chris Nauroth	20140118	hadoop-common-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Chris Nauroth	20140121	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chris Nauroth	20140123	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chris Nauroth	20140126	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chris Nauroth	20140131	hadoop-common-project	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Chris Nauroth	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Chris Nauroth	20140131	hadoop-hdfs-project	Testtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Chuan Liu	20131213	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Chuan Liu	20140109	hadoop-mapreduce-project	Testtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Chuan Liu	20140128	hadoop-common-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Chun Chen	20140130	hive	Bugtype	Criticalpriority	0votes	2watches	0ISSUE_LOG
+Cindy Li	20140127	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Colin Patrick McCabe	20140128	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Colin Patrick McCabe	20140130	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Colin Patrick McCabe	20140201	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Daniel Dai	20140102	pig	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Daniel Dai	20140109	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Daniel Dai	20140114	pig	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Daniel Dai	20140116	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Daniel Dai	20140117	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Daniel Dai	20140127	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Daniel Dai	20140131	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Daryn Sharp	20140123	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Daryn Sharp	20140128	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Daryn Sharp	20140131	hadoop-common-project	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+Devaraj Das	20140116	hbase	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Dilli Arumugam	20140123	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Enis Soztutar	20140116	hbase	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Enis Soztutar	20140117	hbase	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Enis Soztutar	20140203	hbase	Sub-tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Gera Shegalov	20131230	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Gera Shegalov	20140103	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	11watches	0ISSUE_LOG
+Gera Shegalov	20140117	hadoop-yarn-project	Bugtype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Gera Shegalov	20140118	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Gera Shegalov	20140128	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	11watches	0ISSUE_LOG
+Gera Shegalov	20140201	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Gera Shegalov	20140201	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	10watches	0ISSUE_LOG
+Gianmarco De Francisci Morales	20140123	pig	New Featuretype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Gopal V	20140201	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Gopal V	20140201	hive	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Gunther Hagleitner	20140125	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Gunther Hagleitner	20140129	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Gunther Hagleitner	20140129	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Gunther Hagleitner	20140131	hive	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Gunther Hagleitner	20140203	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Gunther Hagleitner	20140203	hive	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Gustavo Anatoly	20140130	hbase	Improvementtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Haohui Mai	20140116	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Haohui Mai	20140118	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Haohui Mai	20140121	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Haohui Mai	20140123	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Haohui Mai	20140127	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Haohui Mai	20140127	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Haohui Mai	20140128	hadoop-common-project	Improvementtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Haohui Mai	20140128	hadoop-hdfs-project	Improvementtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Haohui Mai	20140129	hadoop-common-project	Bugtype	Blockerpriority	0votes	13watches	0ISSUE_LOG
+Haohui Mai	20140129	hadoop-common-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Haohui Mai	20140129	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Haohui Mai	20140130	hadoop-yarn-project	Bugtype	Blockerpriority	0votes	7watches	0ISSUE_LOG
+Harsh J	20140128	hbase	Improvementtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Hiten Java	20140116	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Hitesh Shah	20140127	pig	Sub-tasktype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Ishan Chhabra	20140122	hbase	Improvementtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+JamesLi	20140102	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Jarek Jarcec Cecho	20131219	pig	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Jarek Jarcec Cecho	20140124	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Jarek Jarcec Cecho	20140131	pig	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Jason Dere	20140129	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Jason Dere	20140129	hive	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Jason Dere	20140130	hive	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Jason Dere	20140201	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Jason Lowe	20140110	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Jason Lowe	20140118	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Jason Lowe	20140128	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	12watches	0ISSUE_LOG
+Jason Lowe	20140128	hadoop-mapreduce-project	Improvementtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Jeffrey Zhong	20140120	hbase	Bugtype	Criticalpriority	0votes	9watches	0ISSUE_LOG
+Jeffrey Zhong	20140202	hbase	Bugtype	Criticalpriority	0votes	5watches	0ISSUE_LOG
+Jerry He		0ISSUE_LOG
+Jerry He	20140124	hbase	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Jerry He	20140203	hbase	Bugtype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Jesse Yates	20140125	hbase	Bugtype	Criticalpriority	0votes	10watches	0ISSUE_LOG
+Jian He	20140128	hadoop-mapreduce-project	Testtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Jimmy Xiang	20140122	hbase	Bugtype	Blockerpriority	0votes	7watches	0ISSUE_LOG
+Jimmy Xiang	20140123	hadoop-common-project	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Jimmy Xiang	20140128	hadoop-common-project	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Jimmy Xiang	20140129	hbase	Bugtype	Minorpriority	0votes	7watches	0ISSUE_LOG
+Jimmy Xiang	20140130	hbase	Tasktype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Jimmy Xiang	20140131	hbase	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Jing Zhao	20140115	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Jing Zhao	20140123	hadoop-hdfs-project	Sub-tasktype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Jing Zhao	20140128	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Jing Zhao	20140128	hadoop-hdfs-project	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Jing Zhao	20140129	hadoop-hdfs-project	Improvementtype	Minorpriority	0votes	7watches	0ISSUE_LOG
+Jing Zhao	20140129	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Jing Zhao	20140130	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Jing Zhao	20140131	hadoop-common-project	Improvementtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Jing Zhao	20140201	hadoop-hdfs-project	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Jitendra Nath Pandey	20140201	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Jitendra Nath Pandey	20140203	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Jonathan Hsieh		0ISSUE_LOG
+Jonathan Hsieh	20140125	hbase	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Jonathan Hsieh	20140125	hbase	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Jonathan Hsieh	20140128	hbase	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Jonathan Hsieh	20140130	hbase	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Josh Elser	20140117	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Josh Elser	20140131	hadoop-hdfs-project	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Karthik Kambatla		0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Improvementtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-tasktype	Blockerpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-tasktype	Criticalpriority	0votes	4watches	0ISSUE_LOG
+Karthik Kambatla	20140128	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Karthik Kambatla	20140129	hadoop-yarn-project	Bugtype	Criticalpriority	0votes	3watches	0ISSUE_LOG
+Karthik Kambatla	20140129	hadoop-yarn-project	Bugtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Karthik Kambatla	20140130	hadoop-yarn-project	Sub-tasktype	Blockerpriority	0votes	7watches	0ISSUE_LOG
+Karthik Kambatla	20140131	hadoop-common-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Keren Ouaknine	20140130	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Koji Noguchi	20140130	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Kousuke Saruta	20140128	hadoop-hdfs-project	Bugtype	Trivialpriority	0votes	5watches	0ISSUE_LOG
+Larry McCay	20140111	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Larry McCay	20140116	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Larry McCay	20140120	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Lars Hofhansl	20140126	hbase	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Laurent Goujon	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Liang Xie	20140131	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	20watches	0ISSUE_LOG
+Liu Shaohui	20140121	hbase	Bugtype	Criticalpriority	0votes	12watches	0ISSUE_LOG
+Liu Shaohui	20140121	hbase	Testtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Liyin Liang		0ISSUE_LOG
+Liyin Liang	20131219	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Lohit Vijayarenu	20140128	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	8watches	0ISSUE_LOG
+Lorand Bendig	20140111	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Lorand Bendig	20140203	pig	Improvementtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Lorand Bendig	20140203	pig	Tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Lukas Nalezenec	20140131	hbase	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Manukranth Kolloju	20140129	hbase	New Featuretype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Mark Wagner	20131214	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Matteo Bertozzi	20140129	hbase	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Mayank Bansal	20140203	hadoop-yarn-project	Bugtype	Blockerpriority	0votes	4watches	0ISSUE_LOG
+Michael Weng	20140117	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Mike Liddell	20140123	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Mit Desai	20140127	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Mit Desai	20140128	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Mit Desai	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Mit Desai	20140129	hadoop-common-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Mit Desai	20140129	hadoop-yarn-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Mit Desai	20140131	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Mithun Radhakrishnan	20131126	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Mohammad Kamrul Islam	20140112	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Mohammad Kamrul Islam	20140122	hadoop-yarn-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Mohammad Kamrul Islam	20140128	hadoop-mapreduce-project	Bugtype	Blockerpriority	0votes	6watches	0ISSUE_LOG
+Mohammad Kamrul Islam	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Nathan Roberts	20140128	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Nathan Roberts	20140128	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Navis	20140127	hive	Bugtype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Navis	20140127	hive	Bugtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Navis	20140127	hive	Tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Navis	20140127	hive	Tasktype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Navis	20140128	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Navis	20140128	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Navis	20140203	hive	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Navis	20140203	hive	New Featuretype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Nezih Yigitbasi	20140116	pig	Bugtype	Blockerpriority	0votes	2watches	0ISSUE_LOG
+Nezih Yigitbasi	20140121	pig	New Featuretype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Nezih Yigitbasi	20140129	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Nick Dimiduk	20140125	hbase	Improvementtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Nick Dimiduk	20140126	hbase	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Nick Dimiduk	20140126	hbase	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Nick Dimiduk	20140203	hbase	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Nicolas Liochon	20140120	hbase	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Nicolas Liochon	20140123	hbase	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Nicolas Liochon	20140130	hbase	Bugtype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Nicolas Liochon	20140203	hbase	Bugtype	Criticalpriority	0votes	5watches	0ISSUE_LOG
+Nikola Vujic	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Prasad Mujumdar	20140130	hive	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Prasanth	20140124	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Prasanth J	20140124	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Prasanth J	20140129	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Prasanth J	20140129	hive	Sub-tasktype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Prasanth J	20140131	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Prasanth J	20140131	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Raja Aluri	20140130	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Rajesh Balamohan	20140130	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Rakesh R	20140126	hadoop-hdfs-project	Bugtype	Blockerpriority	0votes	4watches	0ISSUE_LOG
+Rekha Joshi	20140131	pig	New Featuretype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Remus Rusanu	20140131	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Ren	20140201	hadoop-common-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Robert Kanter	20131213	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Robert Kanter	20131231	hadoop-mapreduce-project	Bugtype	Trivialpriority	0votes	3watches	0ISSUE_LOG
+Robert Kanter	20140103	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Rohini Palanisw	20140127	pig	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Rohini Palaniswamy	20131227	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Rohini Palaniswamy	20131227	pig	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Rohini Palaniswamy	20140123	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Rohini Palaniswamy	20140124	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Rohini Palaniswamy	20140126	pig	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Rohini Palaniswamy	20140127	pig	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Rohini Palaniswamy	20140131	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Sandy Ryza	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Sandy Ryza	20140128	hadoop-yarn-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Sandy Ryza	20140128	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Sandy Ryza	20140128	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Sandy Ryza	20140131	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Sandy Ryza	20140131	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Sandy Ryza	20140131	hadoop-yarn-project	Bugtype	Majorpriority	1votes	3watches	0ISSUE_LOG
+Sangjin Lee	20131202	hadoop-mapreduce-project	New Featuretype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Sergey Shelukhin	20140123	hive	Improvementtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Sergey Shelukhin	20140128	hive	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Sergey Shelukhin	20140129	hbase	Improvementtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Sergey Shelukhin	20140129	hbase	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Sergey Shelukhin	20140201	hive	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Sergey Shelukhin	20140202	hbase	Testtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Sergey Svinarchuk	20131219	pig	Tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Shinichi Yamashita	20140126	hadoop-yarn-project	Sub-tasktype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Shuaishuai Nie	20140128	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Siqi Li	20140117	hadoop-yarn-project	Bugtype	Criticalpriority	0votes	2watches	0ISSUE_LOG
+Suhas Satish	20140117	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Suhas Satish	20140127	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Suhas Satish	20140130	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Suhas Satish	20140131	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Suhas Satish	20140131	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Sushanth Sowmyan	20140131	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Sushanth Sowmyan	20140131	hive	Tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Swarnim Kulkarni	20140123	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Swarnim Kulkarni	20140131	hive	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Tao Luo	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Ted Malaska	20140107	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Ted Malaska	20140113	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Ted Yu	20131211	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Ted Yu	20140117	hbase	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Ted Yu	20140117	hbase	Tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Ted Yu	20140120	hbase	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Ted Yu	20140123	hbase	Testtype	Majorpriority	0votes	0watches	0ISSUE_LOG
+Ted Yu	20140125	hbase	Bugtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Ted Yu	20140125	hbase	Testtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Ted Yu	20140125	hbase	Testtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Ted Yu	20140128	hadoop-common-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Ted Yu	20140128	hbase	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Ted Yu	20140130	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	10watches	0ISSUE_LOG
+Ted Yu	20140201	hbase	Testtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Thejas M Nair	20140201	hive	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Thejas M Nair	20140203	hive	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Thomas Graves	20140118	hadoop-yarn-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Todd Lipcon	20140129	hadoop-common-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Todd Lipcon	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Travis Woodruff	20140107	pig	Bugtype	Criticalpriority	0votes	3watches	0ISSUE_LOG
+Travis Woodruff	20140107	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Travis Woodruff	20140109	pig	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Travis Woodruff	20140122	pig	Improvementtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Tsz Wo (Nicholas), SZE	20140118	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Tsz Wo (Nicholas), SZE	20140130	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Tsz Wo (Nicholas), SZE	20140201	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Uma Maheswara Rao G	20140125	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned		0ISSUE_LOG
+Unassigned	20131120	hadoop-mapreduce-project	Tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131121	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20131122	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20131123	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131129	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20131201	hadoop-mapreduce-project	Bugtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131203	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20131203	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20131204	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131204	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20131205	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131205	hadoop-mapreduce-project	Bugtype	Trivialpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20131206	hadoop-mapreduce-project	Improvementtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131210	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20131214	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131217	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20131217	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20131219	hadoop-mapreduce-project	Butype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20131220	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131223	hadoop-mapreduce-project	Bugtype	Blockerpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131226	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20131226	pig	New Featuretype	Majorpriority	1votes	4watches	0ISSUE_LOG
+Unassigned	20131229	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20131230	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140102	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140105	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140107	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140108	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140109	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140109	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140109	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140109	pig	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140110	hadoop-mapreduce-project	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140110	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140111	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140112	hadoop-common-project	Bugtype	Criticalpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140112	hadoop-common-project	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140112	hadoop-common-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140113	hadoop-common-project	Testtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140113	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140113	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Unassigned	20140113	pig	New Featuretype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140114	hadoop-common-project	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140114	hadoop-common-project	Bugtype	Trivialpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140114	hadoop-hdfs-project	Bugtype	Criticalpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140114	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140114	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140115	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140115	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140115	hadoop-mapreduce-project	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140115	hadoop-yarn-project	Improvementtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140115	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140116	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140116	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140116	hadoop-hdfs-project	Improvementtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140116	hadoop-hdfs-project	Sub-tasktype	Minorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140116	hbase	Improvementtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Unassigned	20140116	hbase	Imprtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140116	hbase	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140116	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140117	hadoop-hdfs-project	Improvementtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140118	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140118	hbase	Tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140120	hadoop-common-project	Bugtype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140120	hbase	Bugtype	Criticalpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140120	hbase	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140120	hbase	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140120	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140121	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140121	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140121	hadoop-hdfs-project	Bugtype	Trivialpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140121	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140121	hadoop-mapreduce-project	Testtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140121	hbase	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140121	hbase	Improvementtype	Minorpriority	1votes	9watches	0ISSUE_LOG
+Unassigned	20140121	hbase	New Featuretype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140121	pig	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140122	hadoop-common-project	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140122	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140122	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140122	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140122	hbase	New Featuretype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20140122	hive	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-common-project	Bugtype	Criticalpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-common-project	Bugtype	Majorpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-common-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-common-project	Bugtype	Minorpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-common-project	Tasktype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140123	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140123	hive	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140123	hive	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140123	hive	Wishtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140123	pig	Bugtype	Criticalpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	pig	Bugtype	Majorpriority	0votes	0watches	0ISSUE_LOG
+Unassigned	20140123	pig	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-common-project	Bugtype	Majorpriority	0votes	18watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-common-project	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-common-project	Sub-tasktype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-hdfs-project	Testtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140124	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140124	hbase	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140124	hbase	Testtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140124	hive	Bugtype	Criticalpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140124	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140124	pig	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140124	pig	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140125	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140125	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140125	hbase	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140125	hbase	Improvementtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140125	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140126	hadoop-common-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140126	hadoop-hdfs-project	Testtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140126	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140126	hbase	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140126	hive	Tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-common-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-common-project	Bugtype	Majorpriority	2votes	6watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-hdfs-project	Bugtype	Criticalpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-mapreduce-project	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-yarn-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140127	hadoop-yarn-project	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140127	hbase	Wishtype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140127	hive	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-common-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-common-project	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-common-project	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-hdfs-project	Improvementtype	Majorpriority	1votes	4watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-hdfs-project	Improvementtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-yarn-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-yarn-project	Bugtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-yarn-project	New Featuretype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140128	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140128	hbase	Bugtype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Unassigned	20140128	hive	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140128	hive	Bugtype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140128	hive	New Featuretype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-common-project	Bugtype	Criticalpriority	0votes	7watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-common-project	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-common-project	Bugtype	Trivialpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-common-project	Improvementtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-yarn-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-yarn-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140129	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140129	hbase	Bugtype	Trivialpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-common-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-common-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-common-project	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-common-project	Improvementtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-hdfs-project	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-hdfs-project	Bugtype	Criticalpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-yarn-project	Bugtype	Criticalpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140130	hadoop-yarn-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20140130	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140130	hive	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-common-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-common-project	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-common-project	Improvementtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-yarn-project	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140131	hadoop-yarn-project	Bugtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140131	hbase	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140131	hbase	New Featuretype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140131	pig	Bugtype	Blockerpriority	0votes	6watches	0ISSUE_LOG
+Unassigned	20140131	pig	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140131	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140201	hadoop-common-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140201	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140201	hadoop-hdfs-project	Bugtype	Blockerpriority	0votes	30watches	0ISSUE_LOG
+Unassigned	20140201	hive	Bugtype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140202	hadoop-common-project	Sub-tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+Unassigned	20140202	hadoop-yarn-project	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140202	hadoop-yarn-project	Testtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140202	hive	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Bugtype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Improvementtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Sub-tasktype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-hdfs-project	Sub-tasktype	Trivialpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hadoop-yarn-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140203	hbase	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Unassigned	20140203	hbase	Sub-tasktype	Majorpriority	0votes	9watches	0ISSUE_LOG
+Unassigned	20140203	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hive	Bugtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+Unassigned	20140203	hive	Sub-tasktype	Minorpriority	0votes	1watches	0ISSUE_LOG
+Unassigned	20140203	hive	Wishtype	Blockerpriority	0votes	4watches	0ISSUE_LOG
+Unassigned	20140203	pig	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Vaibhav Gumashta	20140123	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Vaibhav Gumashta	20140124	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Vaibhav Gumashta	20140129	hive	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Vaibhav Gumashta	20140201	hive	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Vasu Mariyala	20140129	hbase	New Featuretype	Majorpriority	0votes	7watches	0ISSUE_LOG
+Vikram Dixit K	20140129	hive	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Vinay	20140123	hadoop-common-project	Bugtype	Criticalpriority	0votes	6watches	0ISSUE_LOG
+Vinay	20140127	hadoop-common-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Vinay	20140130	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Vinay	20140201	hadoop-hdfs-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140111	hadoop-yarn-project	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140124	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Vinod Kumar Vavilapalli	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	8watches	0ISSUE_LOG
+Wangda Tan	20140118	hadoop-yarn-project	Improvementtype	Majorpriority	0votes	13watches	0ISSUE_LOG
+Wangda Tan	20140126	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Wangda Tan	20140126	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Wangda Tan	20140127	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Wangda Tan	20140127	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Wei Yan	20140131	hadoop-common-project	Bugtype	Minorpriority	0votes	4watches	0ISSUE_LOG
+Xuan 	20140201	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Xuan Gong	20140125	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Xuan Gong	20140128	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Xuan Gong	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Xuan Gong	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Xuan Gong	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Xuan Gong	20140131	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Xuan Gong	20140201	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Xuan Gong	20140202	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Xuefu Zhang	20140128	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Xuefu Zhang	20140131	hive	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Xuefu Zhang	20140201	hive	Bugtype	Majorpriority	0votes	1watches	0ISSUE_LOG
+Xuefu Zhang	20140201	hive	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Xuefu Zhang	20140203	hive	Improvementtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+Yi Song	20140128	hadoop-mapreduce-project	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+Yongjun Zhang	20131231	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Yongjun Zhang	20140107	hadoop-mapreduce-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Yongjun Zhang	20140128	hadoop-hdfs-project	Bugtype	Blockerpriority	0votes	7watches	0ISSUE_LOG
+Yongjun Zhang	20140129	hadoop-common-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+Yongjun Zhang	20140201	hadoop-common-project	Bugtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Zhijie Shen	20140128	hadoop-yarn-project	Bugtype	Minorpriority	0votes	6watches	0ISSUE_LOG
+Zhijie Shen	20140130	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	3watches	0ISSUE_LOG
+Zhijie Shen	20140201	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+Zhijie Shen	20140202	hadoop-yarn-project	Sub-tasktype	Majorpriority	0votes	4watches	0ISSUE_LOG
+binlijin	20140128	hbase	Bugtype	Majorpriority	0votes	10watches	0ISSUE_LOG
+cuijianwei	20140125	hbase	Improvementtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+dimmacro	20140110	hadoop-mapreduce-project	Bugtype	Criticalpriority	0votes	1watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140124	hbase	Improvementtype	Majorpriority	0votes	3watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140129	hbase	Bugtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140129	hbase	Improvementtype	Minorpriority	0votes	5watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140203	hbase	Bugtype	Blockerpriority	0votes	5watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140203	hbase	Bugtype	Blockerpriority	0votes	6watches	0ISSUE_LOG
+ramkrishna.s.vasudevan	20140203	hbase	Bugtype	Majorpriority	0votes	2watches	0ISSUE_LOG
+shanyu zhao	20140124	hadoop-common-project	Bugtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+shenhong	20131228	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	5watches	0ISSUE_LOG
+stack	20140122	hbase	Sub-tasktype	Majorpriority	0votes	5watches	0ISSUE_LOG
+takeshi.miao	20140121	hbase	Improvementtype	Minorpriority	0votes	8watches	0ISSUE_LOG
+takeshi.miao	20140124	hbase	Improvementtype	Minorpriority	0votes	3watches	0ISSUE_LOG
+takeshi.miao	20140128	hbase	Improvementtype	Minorpriority	0votes	2watches	0ISSUE_LOG
+takeshi.miao	20140129	hadoop-common-project	Improvementtype	Minorpriority	0votes	8watches	0ISSUE_LOG
+tang shanjiang	20131122	hadoop-mapreduce-project	Improvementtype	Majorpriority	0votes	6watches	0ISSUE_LOG
+zhaoyunjiong		0ISSUE_LOG
