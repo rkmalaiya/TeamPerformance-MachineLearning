@@ -19,16 +19,16 @@ public class RunProject {
 		
 		MRConfig config = new MRConfig();
 		
-//		try {
-//			config.startMR("svn_jan2014", "svn_jan2014_mr_output", Formats.SVN_LOG);
-//			config.startMR("email_jan2014", "email_jan2014_mr_output", Formats.MAIL_CSV);
-//			config.startMR("issues_jan2014_csv", "issues_jan2014_csv_mr_output", Formats.ISSUE_LOG);	
-//			
-//		} catch (ClassNotFoundException | IOException | InterruptedException e) {
-//			
-//			e.printStackTrace();
-//		}
-//		
+		try {
+			config.startMR("svn_jan2014", "svn_jan2014_mr_output", Formats.SVN_LOG);
+			config.startMR("email_jan2014", "email_jan2014_mr_output", Formats.MAIL_CSV);
+			config.startMR("issues_jan2014_csv", "issues_jan2014_csv_mr_output", Formats.ISSUE_LOG);	
+			
+		} catch (ClassNotFoundException | IOException | InterruptedException e) {
+			
+			e.printStackTrace();
+		}
+		
 //		// *********************************** Merge all files as per attributes for vector ************ 
 //		
 //		
@@ -47,10 +47,10 @@ public class RunProject {
 			StringTokenizer tokenizer = new StringTokenizer(allProjects, ",");
 			String projecName;
 			
-			while (tokenizer.hasMoreTokens()) {
-				projecName = tokenizer.nextToken();
-				vector.createAndWrite("all_jan2014_mr_output/part-r-00000",projecName , "vectors/"+projecName+"_vector_file.txt");
-			}
+//			while (tokenizer.hasMoreTokens()) {
+//				projecName = tokenizer.nextToken();
+				vector.createAndWrite("all_jan2014_mr_output/part-r-00000","", "vectors/"+"by_group"+"_vector_file.txt");
+			//}
 			
 		} catch (IOException | ParseException e) {
 			// TODO Auto-generated catch block
