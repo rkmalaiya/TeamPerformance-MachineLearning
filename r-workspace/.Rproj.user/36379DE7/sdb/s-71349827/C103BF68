@@ -1,0 +1,17 @@
+{
+    "contents" : "for(i in 7:12) {\n  \n  png(paste0(\"KmeansCluster_ForCenter_\",i,\".png\"), width = 1390, height = 732)\n  par(mfrow= c(3,3))\n  \n  teamdata.projectwise.km <- kmeans(teamdata.projectwise[, -(1:2)], centers = i, nstart = 3)\n  \n  teamdata.projectwise_cl <- mutate(teamdata.projectwise, cluster = teamdata.projectwise.km$cluster)\n  \n  with(teamdata.projectwise_cl, plot(x = project, cluster, xlab=\"Project Groups\", ylab = \"Clusters\",\n                                     main = paste0(\"Mean Distribution of Clusters(\",i,\" centers)\")))\n  \n  kmCenters <- as.data.frame(teamdata.projectwise.km$centers)\n  kmCenters$cluster <- round(kmCenters$cluster)\n  \n  kmCenters <- ddply(kmCenters, ~cluster, colMeans)\n  \n  lapply (names(kmCenters)[1:7], function(name) {  \n    pie(x = kmCenters[,name], \n        labels = kmCenters$cluster, main = paste0(\"Work Distribution of \",name,\" for each Cluster\"))  \n  })\n  dev.off()\n}\n",
+    "created" : 1429462891137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "802524236",
+    "id" : "C103BF68",
+    "lastKnownWriteTime" : 1429462898,
+    "path" : "~/Nikita/TeamPerformance-MachineLearning/r-workspace/temp1.R",
+    "project_path" : "temp1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

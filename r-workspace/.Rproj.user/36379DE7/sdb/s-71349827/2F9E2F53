@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1429463089172.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2F9E2F53",
+    "lastKnownWriteTime" : 7020393216926180688,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "kmCenters",
+        "contentUrl" : "content?title=kmCenters&file=458e821fb2524f2484cd9183adfb6e9c.htm",
+        "displayedObservations" : 9,
+        "displayedVariables" : 7,
+        "totalObservations" : 9,
+        "variables" : 7
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
