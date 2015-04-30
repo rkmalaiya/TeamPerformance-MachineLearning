@@ -34,6 +34,9 @@ plot(teamdata.projectwise[, c(-1, -2, -10)], main = "Data-point distribution")
 dev.off()
 
 # Trying Kmeans
+
+set.seed(12)
+
 for(i in 7:12) {
   
   png(paste0("KmeansCluster_ForCenter_",i,".png"), width = 1390, height = 732)

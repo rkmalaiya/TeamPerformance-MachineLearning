@@ -19,7 +19,7 @@ if(!require(ggplot2)) {
 }
 
 # Getting only Project-wise data
-teamdata.projectwise <- ddply(teamdata, ~ names ~ date, summarise,
+teamdata.projectwise <- ddply(teamdata, ~ name ~ date, summarise,
                               jira_count = sum(jira_count),
                               svn_count = sum(svn_count),
                               email_count = sum(email_count),
@@ -34,6 +34,9 @@ plot(teamdata.projectwise[, c(-1, -2, -10)], main = "Data-point distribution")
 dev.off()
 
 # Trying Kmeans
+
+set.seed(12)
+
 for(i in 7:12) {
   
   png(paste0("KmeansCluster_ForCenter_",i,".png"), width = 1390, height = 732)
@@ -43,7 +46,7 @@ for(i in 7:12) {
   
   teamdata.projectwise_cl <- mutate(teamdata.projectwise, cluster = teamdata.projectwise.km$cluster)
   
-  with(teamdata.projectwise_cl, plot(x = project, cluster, xlab="Project Groups", ylab = "Clusters",
+  with(teamdata.projectwise_cl, plot(x = name, cluster, xlab="Project Groups", ylab = "Clusters",
                                      main = paste0("Mean Distribution of Clusters(",i," centers)")))
   
   kmCenters <- as.data.frame(teamdata.projectwise.km$centers)

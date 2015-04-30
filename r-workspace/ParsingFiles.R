@@ -1,4 +1,7 @@
-require(plyr)
+if(!require(plyr)) {
+  install.packages("plyr")
+  require(plyr)
+}
 email_df <- read.delim("email_jan", header = FALSE, sep = "\t", fill = TRUE)
 svn_df <- read.delim("svn_jan", header = FALSE, sep = "\t", fill = TRUE)
 jira_df <- read.delim("jira_jan", header = FALSE, sep = "\t", fill = TRUE)
@@ -50,19 +53,19 @@ jira_df <- jira_df[complete.cases(jira_df),]
 #svn_unique_name <- unique(svn_df$name)
 #jira_unique_name <- unique(jira_df$name)
 
-name_list <- rep(1:10, length.out = 2114)
+name_list <- rep(1:9, length.out = 2114)
 name_list <- lapply(name_list, function(x) {paste0("t",x)})
 name_list <- as.character(name_list)
 email_df$name <- as.factor(email_df$name)
 levels(email_df$name) <- name_list
 
-name_list <- rep(1:10, length.out = 115)
+name_list <- rep(1:9, length.out = 115)
 name_list <- lapply(name_list, function(x) {paste0("t",x)})
 name_list <- as.character(name_list)
 svn_df$name <- as.factor(svn_df$name)
 levels(svn_df$name) <- name_list
 
-name_list <- rep(1:10, length.out = 137)
+name_list <- rep(1:9, length.out = 137)
 name_list <- lapply(name_list, function(x) {paste0("t",x)})
 name_list <- as.character(name_list)
 jira_df$name <- as.factor(jira_df$name)
@@ -151,6 +154,10 @@ sum(complete.cases(all_activity_df))
 all_activity_completeCases_df <- all_activity_df[complete.cases(all_activity_df),]
 
 all_activity_df[is.na(all_activity_df)] <- 0
+
+## Lets replace project names
+all_activity_df$project <- as.factor(all_activity_df$project)
+levels(all_activity_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
 
 write.csv(all_activity_df, file = "teamdata.csv")
 write.csv(all_activity_completeCases_df, file = "teamdata_completeCases.csv")
