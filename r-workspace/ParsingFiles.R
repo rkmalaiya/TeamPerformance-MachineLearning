@@ -71,23 +71,6 @@ name_list <- as.character(name_list)
 jira_df$name <- as.factor(jira_df$name)
 levels(jira_df$name) <- name_list
 
-# extracting only days
-svn_df$date <- as.character(svn_df$date)
-svn_df$date <- gsub("-", "", svn_df$date)
-
-svn_df$date <- substring(svn_df$date,7)
-email_df$date <- substring(email_df$date,7)
-jira_df$date <- substring(jira_df$date,7)
-
-svn_df$date <- as.numeric(svn_df$date)
-jira_df$date <- as.numeric(jira_df$date)
-email_df$date <- as.numeric(email_df$date)
-
-svn_df <- svn_df[!is.na(svn_df$date), ]
-jira_df <- jira_df[!is.na(jira_df$date), ]
-email_df <- email_df[!is.na(email_df$date), ]
-
-
 jira_df$jira_type <- gsub(pattern = "Sub-tasktype", replacement = "Subtasktype", x = jira_df$jira_type)
 jira_df$jira_type <- gsub(pattern = "New Featuretype", replacement = "NewFeaturetype", x = jira_df$jira_type)
 jira_df$jira_type <- gsub(pattern = "type", replacement = "", x = jira_df$jira_type)
@@ -147,17 +130,50 @@ jira_df <- ddply(jira_df, ~ name ~ project ~ date, summarise,
                  jira_priority =  max(jira_priority)
                  )
 
+# extracting only days
+svn_df$date <- as.character(svn_df$date)
+svn_df$date <- gsub("-", "", svn_df$date)
+
+svn_df_ts <- svn_df
+email_df_ts <- email_df
+jira_df_ts <- jira_df
+
+
+svn_df$date <- substring(svn_df$date,7)
+email_df$date <- substring(email_df$date,7)
+jira_df$date <- substring(jira_df$date,7)
+
+svn_df$date <- as.numeric(svn_df$date)
+jira_df$date <- as.numeric(jira_df$date)
+email_df$date <- as.numeric(email_df$date)
+
+svn_df <- svn_df[!is.na(svn_df$date), ]
+jira_df <- jira_df[!is.na(jira_df$date), ]
+email_df <- email_df[!is.na(email_df$date), ]
+
 all_activity_df <- merge(email_df, svn_df, all=TRUE) #, by = c("name", "date", "project"))
 all_activity_df <- merge(all_activity_df, jira_df, all = TRUE, by = c("name", "date", "project"))
+
+## Lets replace project names
+all_activity_df$project <- as.factor(all_activity_df$project)
+levels(all_activity_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
+
+email_df$project <- as.factor(email_df$project)
+levels(email_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
+
+jira_df$project <- as.factor(jira_df$project)
+levels(jira_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
+
+svn_df$project <- as.factor(svn_df$project)
+levels(svn_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
+
 
 sum(complete.cases(all_activity_df))
 all_activity_completeCases_df <- all_activity_df[complete.cases(all_activity_df),]
 
 all_activity_df[is.na(all_activity_df)] <- 0
 
-## Lets replace project names
-all_activity_df$project <- as.factor(all_activity_df$project)
-levels(all_activity_df$project) <- c("team1", "team2", "team3", "team4", "team5", "team6", "team7")
+
 
 write.csv(all_activity_df, file = "teamdata.csv")
 write.csv(all_activity_completeCases_df, file = "teamdata_completeCases.csv")

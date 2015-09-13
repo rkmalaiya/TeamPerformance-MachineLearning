@@ -1,0 +1,143 @@
+---
+title: "Untitled"
+author: "Ritesh Kumar Malaiya"
+date: "Thursday, August 06, 2015"
+output: 
+  html_document: 
+    toc: yes
+---
+
+
+# Load Required libraries
+```{r}
+if(!require(dplyr)) {
+  install.packages('dplyr')
+  suppressPackageStartupMessages(require(dplyr))
+}
+
+if(!require(plyr)) {
+  install.packages('plyr')
+  suppressPackageStartupMessages(require(plyr))
+}
+
+if(!require(arules)) {
+  install.packages('arules')
+  suppressPackageStartupMessages(require(arules))
+}
+
+if(!require(arulesViz)) {
+  install.packages('arulesViz')
+  suppressPackageStartupMessages(require(arulesViz))
+}
+
+```
+
+# Data Processing
+## Load Data
+```{r}
+teamdata <- read.csv("teamdata.csv")
+size <- 1:nrow(teamdata)
+```
+
+## Convert Data to Event\Itemsets Format
+```{r}
+teamdata$seconds <- sample(x =  1:(4*60),size = nrow(teamdata), replace = T)
+
+teamdata.event <- teamdata %>% ddply( ~ project ~ name ~ date ~ seconds, function(x) {
+                                      ddply(x, ~seconds, function(y) {
+    
+                                        data.frame(email = as.character(ifelse (y$email_count == 0, NA, paste0(y$email_count,"EMAIL",length(unique(y$name))))),
+                                                   svn = as.character(ifelse (y$svn_count == 0, NA, paste0(y$svn_count,"SVN",length(unique(y$name))))),
+                                                   watches = as.character(ifelse (y$watches == 0, NA, paste0(y$watches,"WATCHES",length(unique(y$name))))),
+                                                   votes = as.character(ifelse (y$votes == 0, NA, paste0(y$votes,"VOTES",length(unique(y$name))))),
+                                                   jira_count = as.character(ifelse (y$jira_count == 0, NA, paste0(y$jira_count,"JIRA_COUNT",length(unique(y$name))))),
+                                                   jira_type = as.character(ifelse (y$jira_type == 0, NA, paste0(y$jira_type,"JIRA_TYPE",length(unique(y$name))))),
+                                                   jira_priority = as.character(ifelse (y$jira_priority == 0, NA, paste0(y$jira_priority,"JIRA_PRIORITY",length(unique(y$name)))))
+                                                   )
+      })
+}
+)
+
+teamdata.event <- teamdata %>% ddply( ~ project ~ name ~ date ~ seconds, function(x) {
+                                      ddply(x, ~seconds, function(y) {
+    
+                                        data.frame(email = ifelse (y$email_count == 0, '1EMAIL1', paste0(y$email_count,"EMAIL",length(unique(y$name)))),
+                                                   svn = ifelse (y$svn_count == 0, '1SVN1', paste0(y$svn_count,"SVN",length(unique(y$name)))),
+                                                   watches = ifelse (y$watches == 0, '1WATCHES1', paste0(y$watches,"WATCHES",length(unique(y$name)))),
+                                                   votes = ifelse (y$votes == 0, '1VOTES1', paste0(y$votes,"VOTES",length(unique(y$name)))),
+                                                   jira_count = ifelse (y$jira_count == 0, '1JIRA_COUNT1', paste0(y$jira_count,"JIRA_COUNT",length(unique(y$name)))),
+                                                   jira_type = ifelse (y$jira_type == 0, '1JIRA_TYPE1', paste0(y$jira_type,"JIRA_TYPE",length(unique(y$name)))),
+                                                   jira_priority = ifelse (y$jira_priority == 0, '1JIRA_PRIORITY1', paste0(y$jira_priority,"JIRA_PRIORITY",length(unique(y$name))))
+                                                   )
+      })
+}
+)
+str(teamdata.event)
+head(teamdata.event)
+
+```
+
+
+## Quality of Data
+
+1. Total size of Data
+```{r}
+dim(teamdata.event)
+```
+
+2. Total rows not having any missing events
+```{r}
+sum(complete.cases(teamdata.event))
+```
+
+3. Total cells/instances having any missing events
+```{r}
+sum(is.na(teamdata.event))
+```
+
+As we can see that the data is in good condition, let's proceed with applying Apriori Algorithm
+
+```{r}
+write.csv(teamdata.event, file = "fp_growth.csv", na = "")
+
+```
+
+## Association Rule Mining using Apriori
+
+### Finding rules:
+
+With Support 0.2 and Confidence 80%
+```{r}
+
+rules.all <- apriori(teamdata.event[,-(1:4)], control = list(verbose=T), parameter = list(minlen=5, supp = 0.2, conf=0.8))
+
+quality(rules.all) <- round(quality(rules.all), digits=3)
+inspect(rules.all)
+
+rules.sorted <- sort(rules.all, by = 'lift')
+inspect(rules.sorted)
+```
+
+### Plotting Association Rules
+
+```{r}
+
+#png("FPGrowth1.png", width = 1390, height = 732)
+plot(rules.all)
+#dev.off()
+
+#png("FPGrowth2.png", width = 1390, height = 732)
+plot(rules.all, method = "grouped")
+#dev.off()
+
+#png("FPGrowth3.png", width = 1390, height = 732)
+plot(rules.all, method = "graph")
+#dev.off()
+
+#png("FPGrowth4.png", width = 1390, height = 732)
+plot(rules.all, method = "graph", control = list(type = 'items'))
+#dev.off()
+
+#png("FPGrowth5.png", width = 1390, height = 732)
+plot(rules.all, method = "paracoord", control = list(reorder = TRUE))
+#dev.off()
